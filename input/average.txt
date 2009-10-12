@@ -1,0 +1,62 @@
+restindex
+/restindex
+
+The Earth average
+=================
+
+**[Needs revision and expansion.]**
+
+The average temperature of the Earth, it is claimed, has increased by
+0.7°C during the last 100 years, and this, it is also claimed, is the
+result of anthropogenic global warming. These are two claims. Let's
+examine them one by one.
+
+It is important to understand that the Earth has no such hole in which
+you can stick a thermometer and take a reading.  Determining the
+so-called average temperature of the Earth is a very complicated
+business. You need to use measurements of temperatures wherever those
+exist, and make assumptions about how to average them over areas. In
+addition, 0.7°C is a very low variation, barely over the accuracy
+range of most thermometers. If you have measurements from 1850 to 1950
+in a location, it is not the same thermometer that was used throughout
+that period; and even the same thermometer might produce slightly
+different measurements during its life.  This means that you have to
+go into very complex studies, comparing measurements with those in
+nearby locations (which also, of course, suffer from the same
+problems), and doing appropriate calibrations. You can rarely reliably
+reach an accuracy of 0.7°C.
+
+Even if you solve these problems, and you can safely arrive at the
+conclusion that your measurements do indicate a temperature increase,
+it is by no means easy to generalize to the Earth average. Maybe the
+earth has heated up and the sea has cooled down; maybe Europe and
+North America (where there are many measuring stations) have heated up
+but Africa has cooled down. Maybe the Northern Hemisphere has heated
+up and the Southern has cooled down. In addition, thermometers are
+usually located near urban areas, and urbanisation does cause a local
+temperature increase, which, however, is not necessarily an indication
+of a global temperature increase. Since 1978, another means of
+measuring global temperature is with satellites, but this is also
+indirect and involves assumptions and calculations. Therefore, the
+alleged average global temperature increase, rather than fact, is
+theory.
+
+All we can tell you is that the alleged increase is theory. We cannot
+tell you whether it is good theory or bad theory, because we have not
+examined it. Maybe this claimed 0.7±0.2°C is an excellent result of
+outstanding work that tackles the difficulties with ingenuity. Maybe
+it is completely crap.
+
+All we can say is that 0.7°C in 100 years is a quite reasonable
+change, not especially worthy of much notice. The Earth's temperature
+has never stayed the same. It is believed that ten thousand years ago,
+when the last ice age ended, the temperature of the Earth was 8
+degrees lower than it is today, and that 5 thousand years ago it was 2
+degrees higher. A change of 0.7°C in a century is not unusual and it
+does not indicate a permanent trend any more than does a difference in
+temperature between yesterday and today. This is an important issue
+which we will visit again later.
+
+Next: `The climate models`_
+
+.. _the climate models: models.html

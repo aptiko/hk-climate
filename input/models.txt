@@ -1,0 +1,256 @@
+restindex
+/restindex
+
+The climate models
+==================
+
+**[Ready for internal review.]**
+
+.. epigraph::
+
+   *"There is considerable confidence that Atmosphere-Ocean
+   General Circulation Models (AOGCMs) provide credible quantitative
+   estimates of future climate change, particularly at continental and
+   larger scales."*
+
+   ―IPCC Fourth Assessment Report, The Physical Science Basis, p. 591
+   [#ipcc-models]_
+
+.. epigraph::
+
+   *"The IPCC report ... is very clear in stating that the detection
+   and attribution of climate changes is only clearly possible at
+   continental scales and above."*
+
+   ―Gavin Schmidt, prominent climatologist [#gavin-on-credibility]_
+
+.. epigraph::
+
+   *"The increase in rainfall in East Africa, extending into the Horn
+   of Africa, is also robust across the ensemble of models, with 18
+   of 21 models projecting an increase in the core of this region,
+   east of the Great Lakes."*
+    
+   ―IPCC Fourth Assessment Report, The Physical Science Basis, p. 869
+   [#ipcc-regional]_
+
+The melting ice, the extreme weather events, and the rising
+temperature of the Earth the last few decades, are pointed to,
+sometimes by media and environmentalists, and sometimes by scientists,
+as the devastating *result* of anthropogenic (man-made) global warming
+(AGW), but they are usually not used in scientific circles as
+*evidence* of AGW. Scientists who support the AGW theory will usually
+admit that, while the climate is changing, this is no news; this has
+happened before. But this time, they claim, it's different, and the
+reason they know it's different is that this is what the models say.
+All humanity's fears about the future of the climate are because of
+what the models say.  Let's take a look at these models.
+
+.. admonition:: What is a model?
+
+   Suppose you throw a stone with a certain speed and a certain angle.
+   How far will the stone reach? One formula that gives you the
+   approximate result in meters is *d*\ =\ *v*\ ²sin\ *a*\ cos\
+   *a*/4.9 where *v* is the speed in meters per second and *a* is the
+   angle. We call the formula a **model**. The reason we call it a
+   model is that it is a representation of reality: the reality is the
+   space travelled by the stone, and the formula is an approximation
+   that attempts to represent that reality, in the same way that a
+   model aircraft is a representation of a real aircraft.  Similarly,
+   a map models the landscape, i.e. represents it. In the case of
+   mathematical models, such as the above equation, models accept
+   input and produce output; in our stone throwing model, *v* and *a*
+   is the input and *d* is the output. Making the required
+   calculations is frequently called *running the model*, because when
+   a model is complicated a computer is needed to perform the
+   calculations.
+
+   You must always bear in mind that a model is a model and reality is
+   reality. Good models approximate reality well, but they are still
+   models; they are not reality.
+
+Climate models, also known as General Circulation Models or GCMs, are
+very complicated models that accept a number of inputs such as carbon
+dioxide, sun radiation, and many more (the input variables of climate
+models are often called forcings). The models are run in huge
+supercomputers, and they produce the climate (temperature and rainfall
+around the earth) as a function of the input. The argument goes that
+when the models are run without the input that is allegedly caused by
+humans (i.e. when they are run with the "normal" or "pre-industrial"
+concentration of carbon dioxide in the atmosphere), then there is no
+global warming; but when they are run with the alleged "anthropogenic
+forcings", i.e. with increased carbon dioxide concentrations, then
+there is global warming at the end of the 20th century, which
+continues throughout the 21st. This, goes on the argument, proves that
+the recent warming of the Earth, unlike previous climate changes, is
+caused by human activity; and the models, goes on the argument, can
+tell us how the climate will be several decades from now.
+
+In other words, if you throw a stone and I tell you how far it will
+go, and you ask me why I say so, I can tell you that I calculated it
+with the above equation; that is, that the stone-throwing model says
+so. This can be a convincing answer only if we have reasons to believe
+that the model works well. 
+
+The Intergovernmental Panel of Climate Change (IPCC) explains why they
+trust their models in pages 600–601 of "The Physical Science Basis"
+[#ipcc-models]_, which is part of the IPCC Fourth Assessment Report.
+They mention three reasons: (1) that the models are based on
+established physical laws; (2) that the models can reproduce features
+of the current climate; (3) that the models can reproduce features of
+past climate. We need to examine them one by one.
+
+**(1) The models are based on established physical laws.** If we know
+the speed and direction of a die, its dimensions, and the hardness of
+the materials of which the die and the surface on which it falls are
+constructed, can we predict the outcome? The physical laws of movement
+are very well known and understood in that case, but any model would
+fail miserably. The reason is that the problem is extremely
+complicated.  If a model that attempts to simulate the throwing of a
+die fails to represent reality, when the physical laws are fully known
+and really well understood, the fact that climate models are based on
+physical laws constitutes absolutely no evidence whatsoever that the
+models can work well. Climate is incredibly more complex than the
+throwing of a die. What's more, by the IPCC's own words, in climate
+there are "limitations in scientific understanding" ([#ipcc-models]_,
+p. 601).
+
+**(2) The models can reproduce features of current climate.** It's not
+difficult to make a dice-throwing model that can reproduce features of
+die throwing. A model could be made that reproduces the fact that a
+die accelerates downwards; that when it hits the surface it rebounds;
+that it maintains its angular momentum; that it loses energy through
+friction; and so on. If a model can reproduce these features, this
+does not create any confidence whatsoever that it is able to correctly
+reproduce the final outcome of a real throw.  Similarly, the fact that
+models can reproduce winters and summers, or dry areas and humid
+areas, has nothing to do with their ability to tell us how the climate
+will be in the future.
+
+**(3) The models can reproduce features of past climate.** This
+argument is summarized in Figure 1. Climate models, it is claimed,
+are successful in reproducing the climate of the 20th century well,
+and therefore it is expected that they will be able to also reproduce
+the 21st century. In the Figure, the black line represents reality;
+and the yellow lines are 58 different outputs from several different
+climate models. The red line is the average of these outputs. Your
+first impression would be "wow, the models are good!" But let's take a
+more careful look at the Figure.
+
+.. figure:: images/ipcc-model-reproduction-of-20th-century.png
+
+   Figure 1: IPCC's presentation of model reliability
+   ([#ipcc-models]_, p. 600).
+
+The vertical axis in Figure 1 represents the departure from the mean
+temperature. If, for example, the temperature of the planet is 15°C on
+the average, and in 1962 the temperature of the planet was 15.3°C,
+then the black line will be at +0.3 in 1962. The problem is that the
+comparison is between the real departure and the departure of each
+model. If a model says that the temperature is 10°C, and in reality
+the temperature is 15°C, this is not visible in Figure 1. This means
+that the 60 lines of Figure 1 are artificially made in order to
+approximately fall on each other; if plotted without subtracting the
+mean, they would be 60 distinct lines, often very far from each other;
+if the chart were still only 2°C high, as it is now, many lines would
+be entirely outside the chart.
+
+You may argue that if a model could get the departure from the mean,
+this would be a remarkable achievement, even if it could not get the
+actual value. Indeed. But it's different if you are shown Figure 1 and
+you think "wow, the models are good!", and it's different if you were
+shown a Figure of 60 entire distinct lines, far from each other, in
+which case you'd think "hmm, the models are crap; however, they do
+seem to get the slope right."
+
+Do they get the slope right? From what we can see, reality indicates
+relatively constant temperature from 1930 to 1970; in contrast, the
+models indicate a continuous temperature rise from 1930 to 1970, with
+an abrupt drop in 1962, when the Agung volcano errupted. We don't see,
+in that Figure, that the erruption has particularly influenced
+reality. If you look carefully into Figure 1, you'll notice other
+problems as well.
+
+A third problem is that it is completely unscientific to draw the red
+line that shows the average of the models. There are absolutely no
+scientific grounds to believe that the average of the models is
+something special, or that it is better from the models. If the models
+get it wrong, there is absolutely no reason why the average of many
+models would get it less wrong. In fact, the mere existence of that
+red line makes us wonder: how were the 58 model outputs chosen? Why
+were those 58 outputs chosen, and not some other 58 outputs? Could
+that be cherry-picking?
+
+Finally, even if the models match reality to some extent, how do we
+know that they were not made to fit reality? Normally scientists are
+extremely careful to adjust their models to match a specific set of
+data, and then they check how well their models match an entirely
+different set of data. In this case, for example, one could adjust the
+models so that they'd match the period 1900―1950, without looking at
+1950―2000, and then checking how well the models can match reality for
+the latter period. This is not as easy as it seems in the case of
+climate models, and it may be impossible because of the huge
+complexity of the problem and the fact that there is data for only
+about one century; but we've never been given evidence that the match,
+to the doubtful extent that it exists, is anything better than
+data fitting.
+
+When someone claims that the models are good, the burden is on them to
+prove it. If I claim that you are an elephant, the burden is on me to
+provide the evidence; you do not need to prove that you are not an
+elephant. Instead of clear evidence, we are provided with confusing
+arguments and strange linguistic formations: rather than being told
+that "there is evidence that the models can predict future climate",
+we are being told that "there is considerable confidence that [the
+models] provide credible quantitative estimates of future climate,
+particularly at continental scales and above." What is "considerable
+confidence" and how far is it from certainty? Who is it that is
+considerably confident? What is "credible"? Does it merely mean
+plausible? What does "particularly at continental scales and above"
+mean? Does it mean "only at continental scales and above", as the
+quotation by Gavin Schmidt implies? Or does it mean "which is good at
+regional scales and even better at larger ones", as is implied by
+the IPCC's 94 pages that are crammed with regional details?
+
+A number of studies explain why the models are not credible (e.g.
+[#frank]_, [#credibility-revisited]_). But we have chosen, in this
+chapter, to only look at what IPCC says. The IPCC should have provided
+evidence that models do a decent job, and then we'd be able to start
+discussing on the merit of that evidence. But the IPCC, as you can
+see, has not provided any evidence. Rather than clear answers to clear
+questions, they have provided confusion and lawyerish language.
+
+Next: `The scientific consensus`_
+
+.. _the scientific consensus: consensus.html
+
+References
+----------
+
+.. [#ipcc-models] David A. Randall, Richard A. Wood, Sandrine Bony,
+   Robert Colman, Thierry Fichefet, John Fyfe, Vladimir Kattsov, et
+   al., "Climate models and their evaluation", in IPCC Fourth
+   Assessment Report: Working Group I Report: "The Physical Science
+   Basis", 2007; http://www.ipcc.ch/ipccreports/ar4-wg1.htm, accessed
+   on 2009-04-22.
+
+.. [#gavin-on-credibility] G. Schmidt, “Hypothesis testing and long
+   range memory,” RealClimate, 10 August 2008;
+   http://www.realclimate.org/index.php/archives/2008/08/hypothesis-testing-and-long-term-memory/,
+   accessed on 2009-04-24.
+
+.. [#ipcc-regional] Jens Hesselbjerg Christensen, Bruce Hewitson,
+   Aristita Busuioc, Anthony Chen, Xuejie Gao, Isaac Held, Richard
+   Jones, et al., "Regional Climate Projections", in IPCC Fourth
+   Assessment Report: Working Group I Report: "The Physical Science
+   Basis", 2007; http://www.ipcc.ch/ipccreports/ar4-wg1.htm, accessed
+   on 2009-04-24.
+
+.. [#frank] Patrick Frank, "A climate of belief", *Skeptic* 14(1), pp.
+   22―30, 2008.
+
+.. [#credibility-revisited] G. G. Anagnostopoulos, D. Koutsoyiannis,
+   A. Christofides, A. Efstratiadis, and N. Mamassis, "Credibility of
+   climate predictions," *Hydrological Sciences Journal,*  to be
+   published on 2009.
+

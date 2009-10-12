@@ -1,0 +1,138 @@
+restindex
+    page-title: Epilogue
+/restindex
+
+Epilogue: Chaos, Hurst-Kolmogorov pragmaticity, and uncertainty
+===============================================================
+
+**[Needs expansion.]**
+
+Have you ever wondered how weather predictions are made? If you think
+that it's meteorologists looking at satellite pictures or weather maps
+and determining how current weather will move, you got it wrong.
+Weather predictions are made with weather models. Let's see how it
+works.
+
+Every 12 hours, meteorological centres around the world send
+meteorological balloons up. These are little balloons with several
+meteorological sensors attached, such as a thermometer and a pressure
+sensor, and a trasmitter that transmits the measurements to a ground
+station. As the balloon goes up in the atmosphere, the measurements
+are transmitted to the ground, and so the meteorological variables at
+many altitudes are recorded. These measurements from around the world
+are collected, together with measurements from ships and aeroplanes,
+and they tell us how the weather was at the time the measurements were
+made. In order to make the calculations needed for the prediction, the
+atmosphere is divided into little pieces in such a way that the
+temperature, pressure, etc., in each little piece is known by the
+measurements.  Because we know the natural laws that describe how
+conditions in each piece are affected by its neighbouring pieces, we
+can calculate how each piece will evolve in time, and hence we have a
+prediction of the weather.  The number of calculations required is
+huge and can only be performed by a computer. In other words, a
+computer simulates the atmosphere. The system of simulation (which is
+effectively a set of equations) is called a weather model. The input
+to the weather model (i.e. the measurements of the current weather) is
+called the initial conditions.
+
+This way of weather forecasting was first used in the 1960s.  Edward
+Lorenz, one of the first scientists to experiment with a weather
+model, tried to make a forecast for two months ahead, and for some
+reason he performed the calculation twice.  Although in both
+calculations he used the same weather model and the same initial
+conditions, the results were completely different. At first he thought
+he had made an error, and after trying to locate the error, he found
+out that he had made no error; but one of the times he had run the
+simulation, he had rounded the initial conditions to the third decimal
+digit; the other time he had rounded to the sixth decimal digit
+[#cooper]_.  This means that even if you could accurately determine the
+initial conditions in every place of the earth (and the atmosphere),
+you'd still be unable to predict the weather in two months: because an
+input temperature of 31.23856 and an input temperature of 31.23857
+would give completely different results. The mathematical term for this
+is **chaos**; we say that a function is chaotic if infinitesimal
+differences in the input cause huge differences in the output. The
+reason weather models have such unstable behaviour when you try to
+forecast the weather two months ahead is that the weather is chaotic.
+
+Another way to explain this is the well-known example with the
+hurricane and the butterfly. If you tried to forecast if a hurricane
+in America will form a week from now, and you knew exactly the laws of
+motion that describe the creation of the hurricane, and you knew the
+initial conditions (the present conditions) in every point of the
+atmosphere, you'd still be unable to forecast; because even a
+butterfly moving its wings in China would alter conditions enough in
+order to yield a different result. This does not mean that the
+butterfly is the cause of the hurricane; rather, it means that the
+creation of the hurricane is so sensitive to the infinitesimal
+difference that could be present in its "causes" that causality
+effectively disappears altogether and the hurricane is reduced to a
+random phenomenon.
+
+It is easier to understand it if instead of trying to predict a
+hurricane we try to predict the outcome of a roulette. Suppose you
+know everything you need in order to calculate the outcome of the
+roulette: the initial velocity of the ball, the initial angle speed of
+the wheel, the weight, elasticity, and other properties of the ball,
+the properties of the roulette, the properties of the wheel, the
+temperature of the ball, roulette, and wheel, the air temperature and
+pressure, humidity, and so on. Would you be able to predict the
+outcome? The answer is no, because this, too, is chaotic, provided you
+spin the roulette reasonably fast and provided you give the ball a
+reasonable initial speed. A mere random collision of a molecule of air
+would make a difference large enough in order to change the outcome.
+This does not mean that the collision is the reason for the outcome;
+the outcome depends on everything and nothing at the same time, so
+that it is effectively random.
+
+The roulette is an artificially created system with only 37 possible
+outcomes, each one with an equal probability. Natural systems are much
+more complicated than that. The atmosphere is incredibly more
+complicated, and while weather models can predict the weather for
+three, sometimes maybe four or five, days ahead, they can't do better,
+and no matter how much you improve the models or the knowledge of the
+initial conditions, you'll never be able to forecast more than two
+weeks ahead, simply because you don't know what all butterflies of the
+world are doing or will do, let alone all molecules of air in the
+atmosphere; and even if you knew, it would still not be enough,
+because if you knew the molecules' speed with an accuracy of 20
+decimal digits, such as 25.15235789634239283553, the 21st digit would
+make the difference; not just a difference between sparse clouds and
+many clouds, but a difference between sunshine and heavy snow.
+
+There are, however, important things that you know about the roulette.
+Although its results are purely random, you know that the average
+value is 18, and that the value ranges in a uniform manner from 0 to
+36. You can think of roulette outcomes as random variations around a
+mean of 18, as Figure 1 shows. But the roulette is an extremely simple
+artificial system. Natural systems are much more complicated than
+that.
+
+.. figure:: images/roulette-climate.png
+
+   Figure 1: How the climate would behave if it were like a roulette
+
+People have been tempted to think of climate in much the same way as a
+roulette, and that is, unfortunately, the dominating view in climate
+science. It is alleged that climate is something like the average
+value of the roulette, with the weather being something like the
+specific roulette outcome. In other words, it is alleged that the
+average temperature of the Earth is, say, 15°C, but the temperature in
+Athens in 13 April 2009 can be 22°C, in much the same way that the
+average roulette outcome is 18 but a specific roulette outcome can be
+31. If you average many successive roulette outcomes, the result will
+be 18; and it is claimed that, similarly, if you average the
+temperature of all locations of the Earth for many successive years,
+the result will be 15°C. The roulette outcome varies, but the
+underlying average remains the same.  If the average of the roulette
+changes, this will be traced to a specific reason, such as a
+modification of the wheel; and it is assumed that a change in the
+"underlying climate" can also be attributed to a specific reason. Is
+this correct? Here is where Hurst and Kolmogorov come in.
+
+References
+----------
+
+.. [#cooper] N. G. Cooper, *From Cardinals to Chaos: Reflections on
+   the life and legacy of Stanislaw Ulam,* Cambridge Univ. Press,
+   1989.

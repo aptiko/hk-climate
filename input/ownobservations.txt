@@ -1,0 +1,200 @@
+restindex
+/restindex
+
+The changing climate
+====================
+
+**[Ready for internal review.]**
+
+.. epigraph::
+
+   *"[A] considerable change of climate, inexplicable at present to
+   us, must have taken place in the Circumpolar Regions, by which the
+   severity of the cold that has for centuries past enclosed the seas
+   in the high northern latitudes in an impenetrable barrier of ice
+   has been during the last two years, greatly abated."*
+
+   ―President of the Royal Society, to the Admiralty, 20 November
+   1817 [#royal-society]_
+
+.. epigraph::
+
+   *"Ragavis [1809–1892] accusses Strabo [c. 63 BC – c. 24 AD] of
+   inaccuracy, because the latter said that the river [Kephisos of
+   Attica] is dry during summer, when in fact its flow is perrenial.
+   When I came to Greece, just before the regime change-over [probably
+   1877], I found that Ragavis was right and Strabo was wrong, for
+   there was no time of the year when Kephisos was without water.
+   While I did not make measurements of its depth, I perfectly
+   remember that, when at its lowest, the water would cover a quarter
+   of my horse's legs, and when higher it would reach mine; and many
+   times, while passing through Sepolia, I happened to be caught in a
+   blocking maze of intertwined streams. These days of old glory are
+   now forgotten and today the river is almost always dry."*
+
+   ―Emmanouel Roides, *The countryside of Athens*, 1897
+
+.. epigraph::
+
+   *"It seems the weather changes with years... This year was
+   exceptional: autumn was very late, in fact we almost missed it
+   entirely, and in winter there were many summer days. Our old men
+   admit that in Thessaly winter used to be heavy in the old days.
+   Snow stayed two, three, sometimes even four months unmelted!"*
+
+   ―Demetris Yoldassis, circa 1925
+
+.. epigraph::
+
+   *"There are ominous signs that the earth's weather patterns have
+   begun to change dramatically... A survey completed last year by Dr.
+   Murray Mitchell of the National Oceanic and Atmospheric
+   Administration reveals a drop of half a degree in average ground
+   temperatures in the Northern Hemisphere between 1945 and 1968."*
+
+   ―Peter Gwynne, *The cooling world*, Newsweek, 28 April 1975
+   [#newsweek]_
+
+Imagine that you are a housefly born in Athens, Greece, in 15 July.
+Houseflies normally live up to 25 days, but you have an exceptionally
+long life and you die in 15 August.  We select 15 July to 15 August
+for our example because any temperature variations in this period are
+random in Greece (in contrast to, for example, April, where 1 April
+is, on the average, cooler than 30 April).
+
+During your life, some days are hot, about 35―36°C, some are cool,
+about 29―30°C, and so you experience a large and interesting range of
+temperatures. It is 11 August, and you even remember an event that
+happened in your early days, in 17 July, of water falling from the
+sky, which had forced you to stay hidden. You are the oldest housefly
+around and you tell stories about that to the younger ones.
+
+Then, on 12 August, a heat wave strikes Athens, raising the
+temperature to 39°C. On 13 August it is 41°C, and on the 14th it has
+reached 42°C. By human standards, this is quite usual; such a heat
+wave happens in Athens almost every year. But you are a housefly, and
+you have never seen anything like that.  "Never in my life have I seen
+such heat!", you exclaim; and you are tempted to think that the
+climate is changing in an unusual manner, and that the world is coming
+to an end.
+
+Now imagine for a while that you are Methuselah, the oldest known
+living tree on the planet, which is thought to be more than 4800 years
+old [#methuselah]_.  Humans are for you something as insignificant as
+houseflies are for humans. What humans call climate change, for you is
+but a change in the weather.
+
+Now imagine that you are a being as old as humanity itself. Humans are
+thought to inhabit this planet something like 100 thousand years.
+Figure 1 shows how the temperature has changed during these 100
+thousand years.
+
+.. figure:: images/temperature-during-humanity.png
+
+   Figure 1: Approximate average Earth temperature in the last 100 thousand
+   years (°C)
+
+.. admonition:: How do we know?
+
+   How do we know Methuselah's age? A well-known way of finding the
+   age of a tree is by counting its rings, i.e., the number of
+   concentric circles that you see when you cut its trunk (you don't
+   actually need to cut the whole trunk, you can just extract a
+   carrot-like specimen from the trunk). The reason for the existence
+   of the rings is that each year the trunk grows faster 
+   during the rainy season and slower during the dry season, causing a
+   different colour in the cross-section of the trunk. This technique,
+   which is called dendrochronology, is more successful in areas with
+   a marked difference between rainy and dry season [#archaeology]_.
+
+   How do we know that humanity is 100 thousand years old? The answer
+   is that we don't know, but it is a wild guess. There are two
+   complementary techniques: radiocarbon dating, and potassium-argon
+   dating [#archaeology]_.  Normally carbon atoms have 6 protons and 6
+   neutrons, and are known as carbon-12; but cosmic radiation causes
+   some carbon atoms in the atmosphere to have two additional
+   neutrons; these atoms are known as carbon-14, and they slowly decay
+   with time. Living organisms get their carbon directly or indirectly
+   from the atmosphere, and thus the proportion of carbon-14 is the
+   same as in the atmosphere. From the time of death, carbon-14 slowly
+   decays, and from the proportion of carbon-14 in a dead organism we
+   can estimate its age, up to 40 thousand years ago.  The dead
+   organisms can be wooden artifacts, burnt bones, charcoal from
+   hearths, and so on. Because the atmosphere's carbon-14 content has
+   not always been the same, the method has some error and, for the
+   last few millenia, it is calibrated and cross-checked with
+   dendrochronology.
+
+   Potassium is an abundant element of the earth, and has a proportion
+   of radioactive potassium-40 atoms, which when decaying partly
+   become argon. Lava has zero argon content, because the argon
+   escapes to the atmosphere; but argon cannot escape from solid rock,
+   and so by the amount of argon in a volcanic rock we can estimate
+   when the rock consolidated. If an artifact or a bone is embedded in
+   volcanic rock, we know that its age is the same as that of the
+   rock. This method works for rocks from 100 thousand to several
+   billion years old.
+
+   Thus, archaeologists are able to date some of their findings and
+   from the evidence they collect they can make rough estimations
+   about when and where Homo Sapiens or other species appeared and
+   when they became extinct. The exact date is theory, and is thought
+   to be some time between 500 thousand and 75 thousand years ago.
+
+   How do we know the evolution of earth temperature during the last
+   hundred thousand years? In Antarctica and Greenland a new layer of
+   ice is added each year, covering the ice of the previous year.
+   These places have one long night and one long day each year, and
+   the night ice is slightly different than the day ice, resulting in
+   slightly different colours. Like tree rings, we can see horizontal
+   stripes in ice columns extracted by drilling, and each stripe is
+   one year. There are two complementary ways to determine the
+   temperature of each year. First, as when you put frozen food in the
+   oven, it warms outside but is still cold inside, the Antarctic ice
+   retains its internal temperature as it was thousands of years ago.
+   Second, most oxygen is oxygen-16, but there is also an isotope
+   oxygen-18, and the content of oxygen-18 in snow depends on the
+   temperature during the snowfall. By determining the content of
+   oxygen-18 in ice we can estimate the temperature during snowfall.
+   These two techniques are used together, for verification and
+   calibration of one another [#paleoclimatology]_. Results are good,
+   but they also depend on the unproven assumption that the average
+   temperature of the Earth moves together with the average
+   temperature of the poles; there could be times when there could be
+   a strong contrast between the poles and the rest of the Earth.
+
+So, yes, the climate is changing. It is changing all the time. It is
+changing from minute to minute (although in this case we call it
+"weather"), from year to year, from century to century, and from
+millenium to millenium. If your 100-year-old great grandfather tells
+you that the climate is different now than it was in his early days,
+this is no suprise. The climate is probably not as different as he
+thinks, because human memory is very selective and far from objective,
+but at the same time it is an undeniable truth that climate has always
+been changing, in all time scales.
+
+Next: `The Earth average`_
+
+.. _the earth average: average.html
+
+References
+----------
+
+.. [#royal-society] *Minutes of Council,* Volume 8. pp.149-153, Royal
+   Society, London, 1817; http://www.john-daly.com/polar/arctic.htm,
+   accessed on 2009-04-06.
+
+.. [#newsweek] http://www.denisdutton.com/cooling_world.htm, accessed
+   on 2009-04-21.
+
+.. [#methuselah] Christopher J. Earle, "Pinus longaeva", *The
+   Gymnosperm Database;* http://www.conifers.org/pi/pin/longaeva.htm,
+   accessed on 2009-04-21.
+
+.. [#archaeology] Brian M. Fagan, "Time", in *Archaeology: A Brief
+   Introduction,* Fourth Edition, HarperCollins, 1991, pp. 51–72.
+
+.. [#paleoclimatology] Holli Riebeek, "Paleoclimatology: The Ice Core
+   Record", 2005;
+   http://earthobservatory.nasa.gov/Features/Paleoclimatology_IceCores/,
+   accessed on 2009-04-21.

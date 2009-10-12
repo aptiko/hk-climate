@@ -1,0 +1,213 @@
+restindex
+    page-title: The scientific consensus
+/restindex
+
+The scientific consensus
+========================
+
+**[Ready for internal review.]**
+
+.. epigraph::
+
+   *"[The] planet from which the little prince came is the asteroid
+   known as B-612. This asteroid has only once been seen through the
+   telescope. That was by a Turkish astronomer, in 1909.  On making
+   his discovery, the astronomer had presented it to the International
+   Astronomical Congress, in a great demonstration. But he was in
+   Turkish costume, and so nobody would believe what he said....
+   Fortunately, however, for the reputation of Asteroid B-612, a
+   Turkish dictator made a law that his subjects, under pain of death,
+   should change to European costume. So in 1920 the astronomer gave
+   his demonstration all over again, dressed with impressive style and
+   elegance. And this time everybody accepted his report."*
+
+   ―Antoine de Saint-Exupéry, "The Little Prince" [#prince]_
+
+.. epigraph::
+
+   *"If 75 doctors are telling you that you have cancer and the other two
+   say it is a conspiracy, who do you believe?"*
+
+   ―Franny Armstrong, film director [#armstrong]_
+
+Franny Armstrong's quote might not be very worthy of attention if it
+were not representative of a widespread argument that there is alleged
+agreement among scientists that anthropogenic (man-made) global
+warming (AGW) is happening. There are many errors in the quote, not
+the least of which is that we never claimed that it is a conspiracy.
+Certainly there are some skeptics who think it is a conspiracy, some
+skeptics who think it is stupidity, some who think both, some who
+think that human society is chaotic and therefore you can't find exact
+reasons for everything, and so on. Dividing scentists into global
+warming alarmists and conspiracy theorists means that you cannot
+distinguish shades of grey.
+
+There are several problems with the consensus argument. The first one
+is that it is difficult to define what consensus means and to verify
+whether such consensus exists. The media often claim about alleged
+consensus, but if you look carefully, they don't explain why they
+think that there is consensus. If someone claims that there is
+consensus about something, this does not mean that there is consensus;
+only that someone claims it.
+
+If by "consensus" we mean that almost all organisations who have
+stated an opinion agree that AGW is happening, then, yes, there may be
+consensus. This, however, is not the right way to define consensus.
+We'd need to examine a good number of these organisations, and check
+who are their members and what is the process by which the decision
+for the stating of the opinion was reached. Did the members vote?  How
+were they invited to vote and how many responded?  Was the decision
+made with a 90% majority? Or maybe only 51%?  Or was it maybe an
+elected board who decided? Organisations are often driven more by
+politics than by science, and when we say that a specific organisation
+has a specific opinion, it is quite difficult to know what this means.
+
+Therefore, rather than looking at organisations, we'd better look at
+individuals. Again, there are problems. There is a list of 700
+scientists who are dissenting that AGW is happening [#skeptics-list]_,
+but there also appears to be controversy about the accuracy of that
+list [#skeptics-list-controversy]_. There are studies that claim the
+consensus is real, but the accuracy of these studies is also debated.
+A recent study by Doran and Zimmerman [#doran]_ found that there is
+consensus, and if you go and read it you'll see for yourself the
+problems of determining whether there is consensus. Doran and
+Zimmerman seem to have done careful work and have presented it nicely,
+but still we can find several problems. For example, the most
+important question of their questionnaire is "Do you think human
+activity is a significant contributing factor in changing mean global
+temperatures?" Despite a number of controversial assumptions that this
+question contains ("significant contributing factor" is quite vague,
+and "changing mean global temperatures" reveals a certain way of
+thinking that is not necessarily correct; we explain both those in the
+epilogue), we could probably reply "yes" (with a sidenote that this is
+not our scientific response, but the closest of the three choices the
+questionnaire gives us). Still, this does not prove anything. One
+could think that human activity is a "significant contributing factor"
+in the alteration of the landscape; this does not necessarily mean
+that he'd think that the landscape is being destroyed. This question
+is only one of the problems in the study; we can see many more.
+
+The difficulty in defining and measuring consensus, and the heated
+discussions about whether consensus exist, tempt us to make this
+provoking question: Is there scientific consensus that there is
+scientific consensus? You may think that this is a silly question, and
+we agree. But if you think that you are unqualified to judge AGW by
+yourself and therefore you can only count scientists as if they were
+casting votes, then you have a problem: counting them is quite
+difficult, and, similarly, you are probably unqualified to judge the
+counting, and you will be trapped in our silly question.
+
+The second problem with the consensus argument stems from the first.
+Since consensus is difficult to define and estimate, if you use it as
+an argument then everyone believes in something simply because
+everyone else believes so. This is a well-known marketing trick:
+advertisements often try to convince you that everyone else is doing
+something, so you also have to do it. By creating the impression that
+everyone is doing something, everyone actually starts doing it.
+Sometimes it works, sometimes it doesn't, but it can, unfortunately,
+also work with scientists, and in the case of AGW there is an effort
+to do it.  Margaret Beckett, former UK Secretary of State for
+Environment, Food and Rural Affairs, said that climate change skeptics
+should be denied media air time [#deny-airtime]_, and Franny Armstrong
+has suggested the same [#armstrong]_. If you deny media air time to
+the skeptics, you can certainly create any consensus impression you
+want. What is even sadder is that this is not anything new; the way
+they put it makes it show as if all these years there has been
+sufficient debate, and that now the science is allegedly settled; but
+not only is science not settled, not only denying air time to the
+skeptics would be wrong even if the science had been settled, but such
+statements about stifling skepticism have been made since 1989, if not
+earlier [#lindzen]_.
+
+The third problem with the consensus argument is that science is not
+democratic.  If one hundred thousand scientists believe something and
+one scientist demonstrates that the something is wrong, then the
+something is wrong. In the previous chapters we've explained that AGW
+is unfounded, and even if all other scientists in the world disagreed,
+we'd still hold to it. Luckily we are not alone.
+
+But unfortunately, in practice science is strongly affected by
+politics. The quote from the Little Prince conveys this sad reality in
+a wonderful way, and people besides Antoine de Saint-Exupéry have
+explained the problems in more detail. Donald Miller [#miller]_ is
+good reading, explaining how the research funding system works, and
+the devastating way in which it pushes scientists from skepticism,
+which is the essential quality of a good scientist, to conformance.
+More than 25 years ago, J. Scott Armstrong [#authors-formula]_
+explained that, in order to be successful in publishing papers,
+scientists should not pick important problems, not challenge existing
+beliefs, not obtain surprising results, not use simple methods, not
+fully disclose how they reached their results, and not write clearly.
+[I want to add a story about the Science magazine rejecting dissenting
+opinions, citation needed]. To top it all, the number of scientific
+fraud incidents that go unpunished, or even encouraged, is increasing.
+An investigation is ongoing about serious allegations of data
+fabrication by a well-known climate scientist, and serious allegations
+of cover-up by his university [#keenen]_. [Second incident needed.]
+These are not isolated events; they are representative of the dominant
+science culture today: push for publications, push for image, do
+favours to colleagues and expect favours from them, and neglect
+science ethics.
+
+In conclusion, rather than arguing about whether there is consensus
+(or consensus of consensus), we'd spend our time much better if we
+carefully looked into these problems, and tried to create and
+implement the groundbreaking policies needed to reverse the sad fact
+that science, to a large extent, has been reduced to business and
+politics.
+
+Next: `The pre-emptive action`_
+
+.. _the pre-emptive action: preemptive.html
+
+References
+----------
+
+.. [#prince] Antoine de Saint-Exupéry, "The Little Prince", translated
+   by Katherine Woods, Gallimard, 1943.
+
+.. [#armstrong] Sammy Wilson, "Condemnation over climate change
+   'doubt'"; available at
+   http://www.newsletter.co.uk/news/Condemnation-over-climate-change-doubt.5105071.jp,
+   accessed on 2009-04-06.
+
+.. [#doran] Peter T. Doran and Maggie Kendall Zimmerman, "Examining
+   the Scientific Consensus on Climate Change", Eos, Transactions,
+   American Geophysical Union, 90(3), January 2009; available at
+   http://tigger.uic.edu/~pdoran/012009_Doran_final.pdf, accessed on
+   2009-04-21.
+
+.. [#skeptics-list] U.S. Senate Minority Report: More Than 700
+   International Scientists Dissent Over Man-Made Global Warming
+   Claims, available at
+   http://epw.senate.gov/public/index.cfm?FuseAction=Minority.Blogs&ContentRecord_id=2674E64F-802A-23AD-490B-BD9FAF4DCDB7,
+   accessed on 2009-04-20.
+
+.. [#skeptics-list-controversy] "650 ‘prominent scientists’ dispute
+   climate change?";
+   http://feeds.ofdan.ca/~r/scruffydan/blog/~3/508490731/, accessed on
+   2009-04-14.
+
+.. [#deny-airtime] Brendan O'Neill, "A climate of censorship", The
+   Guardian, November 2006;
+   http://commentisfree.guardian.co.uk/brendan_oneill/2006/11/a_climate_of_censorship.html
+
+.. [#lindzen] Richard S. Lindzen, “Some coolness concerning global
+   warming”, Bulletin of the American Meteorological Society 71(3),
+   pp. 288-299, 1990; available at
+   http://web.mit.edu/cegeon/Public/research/global_warming/lindzen_some_coolness.pdf,
+   accessed on 2009-04-07.
+
+.. [#miller] Donald W. Miller, Jr., "The government grant system:
+   inhibitor of truth and innovation?", Journal of information ethics,
+   16(1), Spring 2007; available at http://www.donaldmiller.com/,
+   accessed on 2009-04-20.
+
+.. [#authors-formula] J. Scott Armstrong, "Barriers to Scientific
+   Contributions: The Author's Formula", Behavioral and Brain Sciences 5,
+   pp. 197-199, June 1982; available at
+   http://ideas.repec.org/p/wpa/wuwpgt/0502057.html, accessed on
+
+.. [#keenen] Douglas Keenen, "Remarks on the fraud allegation against
+   some climatic research of Wei-Chyung Wang"; available at:
+   http://www.informath.org/apprise/a5620.htm, accessed on 2009-04-21.

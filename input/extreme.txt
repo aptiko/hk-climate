@@ -1,0 +1,86 @@
+restindex
+    page-title: The extreme weather
+/restindex
+
+The extreme weather
+===================
+
+**[Needs revision and expansion.]**
+
+.. epigraph::
+
+   *"Just as dawn began to glow, there arose from the horizon a black
+   cloud.... All day long the South Wind blew..., blowing fast,
+   submerging the mountain in water, overwhelming the people like an
+   attack. No-one could see his fellow, they could not recognize each
+   other in the torrent.... Six days and seven nights came the wind
+   and flood, the storm flattening the land. When the seventh day
+   arrived, the storm was pounding, the flood was a war, struggling
+   with itself like a woman writhing in labour. The sea calmed, fell
+   still, the whirlwind and flood stopped up. I looked around all day
+   long; quiet had set in, and all the human beings had turned to
+   clay. The terrain was as flat as a roof. I opened a vent and fresh
+   air, daylight, fell upon the side of my nose. I fell to my knees
+   and sat weeping, tears streaming down the side of my nose."*
+
+   ―Gilgamesh XI:96–137 [#gilgamesh]_
+
+.. epigraph::
+
+   *"[Hail] fell and lightning flashed back and forth. It was the
+   worst storm in all the land of Egypt since it had become a nation.
+   Throughout Egypt hail struck everything in the fields―both men and
+   animals; it beat down everything growing in the fields and stripped
+   every tree."*
+
+   ―Exodus 9:24 (NIV)
+
+Extreme weather phenomena, however you define them, have been
+happening throughout mankind's memory.  Has the frequency of extreme
+weather phenomena increased?
+
+In order to answer this question, we need to define what we mean by
+extreme weather phenomena. If last year there was a deadly hurricane
+in the U.S., and this year there has been a huge flood in Poland, and
+next year there is a huge flood in Spain, and the year after that
+there is a typhoon in China, you can't just say anything at all about
+the frequency of such phenomena, until you take *all* similar
+phenomena of a large enough period in the past and count them. If you
+define hurricanes and typhoons as extreme phenomena, you need to look
+at *all* hurricanes and typhoons of, say, the last 100 years, and not
+just the ones you remember, and see if their frequency is increasing.
+Here are some charts:
+
+[Four charts: u.s. hurricanes, china typhoons, spanish and polish
+floods.]
+
+These charts are not proof that extreme weather phenomena are not
+increasing; we might have been cherry-picking. The point that we are
+trying to make is that a deadly hurricane, or any kind of extreme
+weather event, does not constitute evidence of climate change; and
+that it is very difficult to define, or measure, the "frequency of
+extreme weather phenomena".
+
+There is, however, an undeniable increase in the frequency with which
+media trasmit pictures of extreme phenomena from around the world. We
+observe floods and destructions that we would otherwise not know, and
+this creates a false perception that the extreme phenomena have become
+more frequent.
+
+Furthermore, there is a change in the way we perceive nature. Being
+used to always having water in the tap of our house and air
+conditioners that adjust the temperature throughout the year, we have
+forgotten that Nature does not feature any such kind of monotonous
+constantness. We have become passive observers and we magnify every
+small unsettling natural phenomenon.
+
+Next: `The changing climate`_
+
+.. _the changing climate: ownobservations.html
+
+References
+----------
+
+.. [#gilgamesh] Available at
+   http://www.ancienttexts.org/library/mesopotamian/gilgamesh/tab11.htm,
+   accessed 2009-04-19.
