@@ -92,12 +92,10 @@ and no matter how much you improve the models or the knowledge of the
 initial conditions, you'll never be able to forecast more than two
 weeks ahead, simply because you don't know what all butterflies of the
 world are doing or will do, let alone all molecules of air in the
-atmosphere; and even if you knew, it would still not be enough,
-because if you knew the molecules' speed with an accuracy of 20
-decimal digits, the 21st digit would make the difference.
+atmosphere.
 
 There are, however, important things that you know about the roulette.
-Although its results are purely random, you know that the average
+Although its results are random, you know that the average
 value is 18, and that the value ranges in a uniform manner from 0 to
 36. You can think of roulette outcomes as random variations around a
 mean of 18, as Figure 1 shows. But the roulette is an extremely simple
@@ -109,8 +107,8 @@ that.
    Figure 1: 200 random roulette outcomes
 
 People have been tempted to think of climate in much the same way as a
-roulette, and that is, unfortunately, the dominating view in climate
-science. It is alleged that "climate", or "signal", is something like
+roulette, and that is the dominating view in climate
+science. It is alleged that the "climate", or "signal", is something like
 the average value of the roulette, with the "weather", or "noise",
 being something like the specific roulette outcome. It is alleged that
 the average temperature of the Earth is, say, 15°C, but the
@@ -123,8 +121,7 @@ successive years, the result will be, say, 15°C. The roulette outcome
 varies, but the underlying average remains the same.  If the average
 of the roulette changes, this will be traced to a specific reason,
 such as a modification of the wheel; and it is assumed that a change
-in the "underlying climate" can also be attributed to a specific
-reason.
+in the "underlying climate" will always have a specific cause.
 
 However, as you can see in Figure 2, which shows the temperature
 during the last 10 thousand years, the long-term behaviour of
@@ -166,17 +163,27 @@ scales is called the **Hurst-Kolmogorov behaviour** of climatic
 processes [#hk]_.
 
 Nature loves uncertainty, and it fools us in two ways: on the one hand
-we cannot predict the future of climate, even if we fully know the
-natural laws that describe it, because of chaos; and on the other
+we wouldn't be able to predict the future of climate, even if we fully knew the
+natural laws that govern it, because of chaos; and on the other
 hand, we can't be very certain of the statistically expected behaviour
 of climate which is based on our observations of the past, because of
 the Hurst-Kolmogorov behaviour.
 
-The polar ice is slowly melting, and the climate is slowly changing.
-Why? We don't know. Not because we haven't measured enough; and not
-because we haven't studied it enough. The reason we don't know is that
-the uncertainty is structured inside the climate, as it is structured
-inside life itself. Humans do affect climate change, as they have
+Changes in climate and the weather sometimes have a single dominant
+cause, and sometimes they are chaotic. The seasons, for example, are
+caused by the fact that the Sun's rays fall at a different angle in
+summer than in winter. A storm or a heat wave do not usually have a
+single dominant cause, but are created randomly out of chaotic
+processes. Why does the climate change? Again, there can be
+identifiable dominant causes, or it can be a chaotic change. The
+man-made climate change hypothesis says that greenhouse gas emissions
+from human activities are the dominant cause; but we've shown that
+this hypothesis is unsupported. Whether there is any other dominant
+cause or whether these are routine chaotic changes is not resolved. We
+feel that it is the latter. We don't know what causes
+climate change, and the reason we don't know is that
+the uncertainty is structured in the climate, as it is structured
+in life itself. Humans do affect climate change, as they have
 always been doing, as butterflies also do, their actions contributing
 together with infinite other interacting actions to an infinitely
 complex and entirely unpredictable system, which depends on everything

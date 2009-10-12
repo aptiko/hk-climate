@@ -5,8 +5,6 @@ restindex
 The extreme weather
 ===================
 
-**[Needs revision and expansion.]**
-
 .. epigraph::
 
    *"Just as dawn began to glow, there arose from the horizon a black
@@ -49,7 +47,7 @@ warming. Let's examine these claims.
 We live in Athens, Greece, and the most extreme events we remember
 witnessing are a 10-day-long heat wave of 45°C (113°F) in the summer
 of 1987; an extremely cold winter in 1986–1987; and intense rainfall
-and flooding, which resulted in several deaths, in November 1978.
+and flooding, which resulted in several deaths, in November 1977.
 More recent incidents, as far as we can remember, have been less
 marked, and therefore, as everyday casual observers rather than as
 scientists, we don't see any evidence that extreme weather events in

@@ -45,7 +45,7 @@ The changing climate
 
 The average temperature of the Earth, it is claimed, has increased by
 0.7°C during the last 100 years, and this, it is also claimed, is the
-result of anthropogenic global warming.
+result of man-made global warming.
 
 It is important to understand that the Earth has no such hole in which
 you can stick a thermometer and take a reading.  Determining the
@@ -53,13 +53,15 @@ so-called average temperature of the Earth is a very complicated
 business. You need to use measurements of temperatures wherever those
 exist, and make assumptions about how to average them over areas. In
 addition, 0.7°C is a very low variation, barely over the accuracy
-range of most thermometers. If you have measurements from 1850 to 1950
+range of conventional thermometers. If you have measurements from 1850 to 1950
 in a location, it is not the same thermometer that was used throughout
 that period; and even the same thermometer might produce slightly
-different measurements during its life.  This means that you have to
+different measurements during its life; and differences in the weather
+station installation, such as painting its enclosing box or the
+changing vegetation, also have an effect.  This means that you have to
 go into very complex studies, comparing measurements with those in
 nearby locations (which also, of course, suffer from the same
-problems), and doing appropriate calibrations. You can rarely reliably
+problems), and doing appropriate calibrations. It can be difficult to
 reach an accuracy of 0.7°C.
 
 Even if you solve these problems, and you can safely arrive at the
@@ -75,16 +77,14 @@ of a global temperature increase. Since 1978, another means of
 measuring global temperature is with satellites, but this is also
 indirect and involves assumptions and calculations. Therefore, the
 alleged average global temperature increase, rather than fact, is
-theory.  We cannot tell you whether it is good theory or bad theory,
-because we have not examined it. Maybe this claimed 0.7±0.2°C is an
-excellent result of outstanding work that tackles the difficulties
-with ingenuity. Maybe it is completely crap.
+an estimation.
 
-In any case, 0.7°C in 100 years is a quite reasonable change, not
-especially worthy of much notice. The Earth's temperature has never
-stayed the same.  A change of 0.7°C in a century is not unusual and it
-does not indicate a permanent trend any more than does a difference in
-temperature between yesterday and today.
+We cannot tell you whether the estimation is good or bad, because we
+have not examined it; but in any case, 0.7°C in 100 years is a quite
+reasonable change, not especially worthy of much notice. The Earth's
+temperature has never stayed the same.  A change of 0.7°C in a century
+is not unusual and it does not indicate a permanent trend any more
+than does a difference in temperature between yesterday and today.
 
 Imagine that you are a housefly born in Athens, Greece, in 15 July.
 Houseflies normally live up to 25 days, but you have an exceptionally
@@ -111,7 +111,7 @@ to an end.
 
 Now imagine for a while that you are Methuselah, the oldest known
 living tree on the planet, which is thought to be more than 4800 years
-old [#methuselah]_.  Humans are for you something as insignificant as
+old [#methuselah]_.  Humans are for you something as transient as
 houseflies are for humans. What humans call climate change, for you is
 but a change in the weather.
 
@@ -146,7 +146,7 @@ thousand years.
    carbon atoms in the atmosphere to have two additional neutrons; these
    atoms are known as carbon-14, and they slowly decay with time. Living
    organisms get their carbon directly or indirectly from the atmosphere,
-   and thus the proportion of carbon-14 is the same as in the atmosphere.
+   and thus the proportion of carbon-14 in them is the same as in the atmosphere.
    From the time of death, carbon-14 slowly decays, and from the
    proportion of carbon-14 in a dead organism we can estimate its age, up
    to 40 thousand years ago.  The dead organisms can be wooden artifacts,
@@ -167,7 +167,7 @@ thousand years.
    Thus, archaeologists are able to date some of their findings and from
    the evidence they collect they can make rough estimations about when
    and where Homo Sapiens or other species appeared and when they became
-   extinct. The exact date is theory, and is thought to be some time
+   extinct. The exact date is unknown, but it is thought to be some time
    between 500 thousand and 75 thousand years ago.
 
    How do we know the evolution of earth temperature during the last

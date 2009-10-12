@@ -35,9 +35,10 @@ The climate models
 The melting ice, the extreme weather events, and the rising
 temperature of the Earth the last few decades, are pointed to,
 sometimes by media and environmentalists, and sometimes by scientists,
-as the devastating *result* of anthropogenic (man-made) global warming
-(AGW), but they are usually not used in scientific circles as
-*evidence* of AGW. Scientists who support the AGW theory will usually
+as the devastating *result* of man-made global warming,
+but they are usually not used in scientific circles as
+*evidence* of such warming. Scientists who support the man-made global
+warming hypothesis will usually
 admit that, while the climate is changing, this is no news; this has
 happened before. But this time, they claim, it's different, and the
 reason they know it's different is that this is what the models say.
@@ -46,22 +47,23 @@ what the models say.  Let's take a look at these models.
 
 .. admonition:: What is a model?
 
-   Suppose you throw a stone with a certain speed and a certain angle.
-   How far will the stone reach? One formula that gives you the
-   approximate result in meters is *d*\ =\ *v*\ ²sin\ *a*\ cos\
-   *a*/4.9 where *v* is the speed in meters per second and *a* is the
-   angle. We call the formula a **model**. The reason we call it a
-   model is that it is a representation of reality: the reality is the
-   space travelled by the stone, and the formula is an approximation
-   that attempts to represent that reality, in the same way that a
-   model aircraft is a representation of a real aircraft.  Similarly,
-   a map models the landscape, i.e. represents it. In the case of
-   mathematical models, such as the above equation, models accept
-   input and produce output; in our stone throwing model, *v* and *a*
-   is the input and *d* is the output. Making the required
-   calculations is frequently called *running the model*, because when
-   a model is complicated a computer is needed to perform the
-   calculations.
+   A computer model is a program that simulates a real process. For
+   example, car manufacturers perform computer simulations of crashes.
+   The car structure is divided in little elements, and the computer
+   calculates how each each one of these elements will behave, based
+   on the forces that act on it from its neighbouring elements; and
+   this calculation is repeated for many successive time instants. 
+
+   The reason such a simulation system is called a model is that it is
+   a representation of reality, in the same way that a model aircraft
+   is a representation of a real aircraft.  Similarly, a map models
+   the landscape, i.e. represents it.
+
+   Computer models accept input and produce output. The input to a
+   crash model could be the speed of the car, the point of impact,
+   etc; the output could be the forces that are applied to the bodies
+   of the passengers. Making the required calculations is frequently
+   called "running the model".
 
    You must always bear in mind that a model is a model and reality is
    reality. Good models approximate reality well, but they are still
@@ -71,8 +73,9 @@ Climate models, also known as General Circulation Models or GCMs, are
 very complicated models that accept a number of inputs such as carbon
 dioxide, sun radiation, and many more (the input variables of climate
 models are often called forcings). The models are run in huge
-supercomputers, and they produce the climate (temperature and rainfall
-around the earth) as a function of the input. The argument goes that
+supercomputers, simulating the evolution of climate around the globe,
+and they produce the temperature and rainfall
+around the earth as a function of the input. The argument goes that
 when the models are run without the input that is allegedly caused by
 humans (i.e. when they are run with the "normal" or "pre-industrial"
 concentration of carbon dioxide in the atmosphere), then there is no
@@ -84,14 +87,14 @@ the recent warming of the Earth, unlike previous climate changes, is
 caused by human activity; and the models, goes on the argument, can
 tell us how the climate will be several decades from now.
 
-In other words, if you throw a stone and I tell you how far it will
-go, and you ask me why I say so, I can tell you that I calculated it
-with the above equation; that is, that the stone-throwing model says
-so. This can be a convincing answer only if we have reasons to believe
-that the model works well. 
-
-The Intergovernmental Panel of Climate Change (IPCC) explains why they
-trust their models in pages 600–601 of "The Physical Science Basis"
+I can claim that if you drive your car at 30 km/h and you hit a wall
+flat on, you will only get a bruise on your left shoulder; and if you
+ask me why I think that, I can tell you that this is what the computer
+crash model says.  This can be a convincing answer only if we have
+reasons to believe that the model works well. Therefore, the crucial
+question is: "How reliable are the climate models?" The
+Intergovernmental Panel of Climate Change (IPCC) attempts to answer
+that question in pages 600–601 of "The Physical Science Basis"
 [#ipcc-models]_, which is part of the IPCC Fourth Assessment Report.
 They mention three reasons: (1) that the models are based on
 established physical laws; (2) that the models can reproduce features
@@ -104,8 +107,8 @@ the materials of which the die and the surface on which it falls are
 constructed, can we predict the outcome? The physical laws of movement
 are very well known and understood in that case, but any model would
 fail miserably. The reason is that the problem is extremely
-complicated.  If a model that attempts to simulate the throwing of a
-die fails to represent reality, when the physical laws are fully known
+complicated.  If a model that attempts to simulate the physical movement of a
+die fails to predict the outcome, when the physical laws are fully known
 and really well understood, the fact that climate models are based on
 physical laws constitutes absolutely no evidence whatsoever that the
 models can work well. Climate is incredibly more complex than the
@@ -114,14 +117,14 @@ there are "limitations in scientific understanding" ([#ipcc-models]_,
 p. 601).
 
 **(2) The models can reproduce features of current climate.** It's not
-difficult to make a dice-throwing model that can reproduce features of
+difficult to make a die throwing model that can reproduce features of
 die throwing. A model could be made that reproduces the fact that a
 die accelerates downwards; that when it hits the surface it rebounds;
 that it maintains its angular momentum; that it loses energy through
 friction; and so on. If a model can reproduce these features, this
 does not create any confidence whatsoever that it is able to correctly
 reproduce the final outcome of a real throw.  Similarly, the fact that
-models can reproduce winters and summers, or dry areas and humid
+climate models can reproduce winters and summers, or dry areas and humid
 areas, has nothing to do with their ability to tell us how the climate
 will be in the future.
 
@@ -129,7 +132,7 @@ will be in the future.
 argument is summarized in Figure 1. Climate models, it is claimed,
 are successful in reproducing the climate of the 20th century well,
 and therefore it is expected that they will be able to also reproduce
-the 21st century. In the Figure, the black line represents reality;
+the 21st century. In the Figure, the black line represents the (estimated) reality;
 and the yellow lines are 58 different outputs from several different
 climate models. The red line is the average of these outputs. Your
 first impression would be "wow, the models are good!" But let's take a
@@ -157,11 +160,11 @@ You may argue that if a model could get the departure from the mean,
 this would be a remarkable achievement, even if it could not get the
 actual value. Indeed. But it's different if you are shown Figure 1 and
 you think "wow, the models are good!", and it's different if you were
-shown a Figure of 60 entire distinct lines, far from each other, in
+shown a Figure of 60 entirely distinct lines, far from each other, in
 which case you'd think "hmm, the models are crap; however, they do
 seem to get the slope right."
 
-Do they get the slope right? From what we can see, reality indicates
+Do they get the slope right? From what we can see, the (estimated) reality indicates
 relatively constant temperature from 1930 to 1970; in contrast, the
 models indicate a continuous temperature rise from 1930 to 1970, with
 an abrupt drop in 1962, when the Agung volcano errupted. We don't see,
@@ -208,7 +211,8 @@ plausible? What does "particularly at continental scales and above"
 mean? Does it mean "only at continental scales and above", as the
 quotation by Gavin Schmidt implies? Or does it mean "which is good at
 regional scales and even better at larger ones", as is implied by
-the IPCC's 94 pages that are crammed with regional details?
+the IPCC's 94-page-long Chapter 11 [#ipcc-regional]_, that is crammed
+with regional details?
 
 A number of studies explain why the models are not credible (e.g.
 [#frank]_, [#credibility-revisited]_). But we have chosen, in this

@@ -30,8 +30,8 @@ The scientific consensus
 
 Franny Armstrong's quote might not be very worthy of attention if it
 were not representative of a widespread argument that there is alleged
-agreement among scientists that anthropogenic (man-made) global
-warming (AGW) is happening. There are many errors in the quote, not
+agreement among scientists that man-made global
+warming is occurring. There are many errors in the quote, not
 the least of which is that we never claimed that it is a conspiracy.
 Certainly there are some skeptics who think it is a conspiracy, some
 skeptics who think it is stupidity, some who think both, some who
@@ -49,7 +49,7 @@ consensus about something, this does not mean that there is consensus;
 only that someone claims it.
 
 If by "consensus" we mean that almost all organisations who have
-stated an opinion agree that AGW is happening, then, yes, there may be
+stated an opinion agree that man-made global warming is occuring, then, yes, there may be
 consensus. This, however, is not the right way to define consensus.
 We'd need to examine a good number of these organisations, and check
 who are their members and what is the process by which the decision
@@ -61,16 +61,13 @@ politics than by science, and when we say that a specific organisation
 has a specific opinion, it is quite difficult to know what this means.
 
 Therefore, rather than looking at organisations, we'd better look at
-individuals. Again, there are problems. There is a list of 700
-scientists who are dissenting that AGW is happening [#skeptics-list]_,
-but there also appears to be controversy about the accuracy of that
-list [#skeptics-list-controversy]_. There are studies that claim the
-consensus is real, but the accuracy of these studies is also debated.
+individuals. Again, there are problems, and many opinions have been
+heard on whether individual scientists agree.
 A recent study by Doran and Zimmerman [#doran]_ found that there is
-consensus, and if you go and read it you'll see for yourself the
-problems of determining whether there is consensus. Doran and
+consensus, and if you go and read it you'll see the problems for
+yourself. Doran and
 Zimmerman seem to have done careful work and have presented it nicely,
-but still we can find several problems. For example, the most
+but it is still questionable.  For example, the most
 important question of their questionnaire is "Do you think human
 activity is a significant contributing factor in changing mean global
 temperatures?" Despite a number of controversial assumptions that this
@@ -89,7 +86,7 @@ The difficulty in defining and measuring consensus, and the heated
 discussions about whether consensus exist, tempt us to make this
 provoking question: Is there scientific consensus that there is
 scientific consensus? You may think that this is a silly question, and
-we agree. But if you think that you are unqualified to judge AGW by
+we agree. But if you think that you are unqualified to judge things by
 yourself and therefore you can only count scientists as if they were
 casting votes, then you have a problem: counting them is quite
 difficult, and, similarly, you are probably unqualified to judge the
@@ -103,7 +100,7 @@ advertisements often try to convince you that everyone else is doing
 something, so you also have to do it. By creating the impression that
 everyone is doing something, everyone actually starts doing it.
 Sometimes it works, sometimes it doesn't, but it can, unfortunately,
-also work with scientists, and in the case of AGW there is an effort
+also work with scientists, and in the case of climate change there is an effort
 to do it.  Margaret Beckett, former UK Secretary of State for
 Environment, Food and Rural Affairs, said that climate change skeptics
 should be denied media air time [#deny-airtime]_, and Franny Armstrong
@@ -115,12 +112,13 @@ sufficient debate, and that now the science is allegedly settled; but
 not only is science not settled, not only denying air time to the
 skeptics would be wrong even if the science had been settled, but such
 statements about stifling skepticism have been made since 1989, if not
-earlier [#lindzen]_.
+earlier [#lindzen1990]_.
 
 The third problem with the consensus argument is that science is not
 democratic.  If one hundred thousand scientists believe something and
 one scientist demonstrates that the something is wrong, then the
-something is wrong. In the previous chapters we've explained that AGW
+something is wrong. In the previous chapters we've explained that the
+man-made climate change hypothesis
 is unfounded, and even if all other scientists in the world disagreed,
 we'd still hold to it. Luckily we are not alone.
 
@@ -137,18 +135,18 @@ scientists should not pick important problems, not challenge existing
 beliefs, not obtain surprising results, not use simple methods, not
 fully disclose how they reached their results, and not write clearly.
 Leading scientific journals such as Science and Nature refuse to
-publish dissenting opinions [#journal-censoring]_.  To top it all, the
-number of scientific fraud incidents that go unpunished, or even
-encouraged, is increasing.  An investigation is ongoing about serious
+publish dissenting opinions [#journal-censoring]_.  There are also
+scientific fraud incidents. In 2006, what had been thought to be
+groundbreaking research results in biotechnology were found to be
+entirely fabricated [#hwang]_.  An investigation is ongoing about serious
 allegations of data fabrication by a well-known climate scientist, and
-serious allegations of cover-up by his university [#keenen]_.
-Recently, in our university, after a long discussion on the
-seriousness of the undisputed fact that a paper had been plagiarized
-by a lecturer (and candidate assistant professor), the assembly
-promoted the lecturer to assistant professor. These are not isolated
-events; they are representative of the dominant science culture today:
-push for publications, push for image, do favours to colleagues and
-expect favours from them, and neglect science ethics.
+serious allegations of cover-up by his university [#keenen]_. People
+who work in academia are painfully aware that these are not isolated
+events, but the tip of the iceberg of the dominant science culture today:
+push for publications, push for image, do favours to colleagues
+and expect favours from them, and neglect science ethics.
+See also Lindzen's paper [#lindzen2008]_ for a more in-depth
+investigation of these problems.
 
 In conclusion, rather than arguing about whether there is consensus
 (or consensus of consensus), we'd spend our time much better if we
@@ -178,22 +176,11 @@ References
    http://tigger.uic.edu/~pdoran/012009_Doran_final.pdf, accessed on
    2009-04-21.
 
-.. [#skeptics-list] U.S. Senate Minority Report: More Than 700
-   International Scientists Dissent Over Man-Made Global Warming
-   Claims, available at
-   http://epw.senate.gov/public/index.cfm?FuseAction=Minority.Blogs&ContentRecord_id=2674E64F-802A-23AD-490B-BD9FAF4DCDB7,
-   accessed on 2009-04-20.
-
-.. [#skeptics-list-controversy] "650 ‘prominent scientists’ dispute
-   climate change?";
-   http://feeds.ofdan.ca/~r/scruffydan/blog/~3/508490731/, accessed on
-   2009-04-14.
-
 .. [#deny-airtime] Brendan O'Neill, "A climate of censorship", The
    Guardian, November 2006;
    http://commentisfree.guardian.co.uk/brendan_oneill/2006/11/a_climate_of_censorship.html
 
-.. [#lindzen] Richard S. Lindzen, “Some coolness concerning global
+.. [#lindzen1990] Richard S. Lindzen, “Some coolness concerning global
    warming”, Bulletin of the American Meteorological Society 71(3),
    pp. 288-299, 1990; available at
    http://web.mit.edu/cegeon/Public/research/global_warming/lindzen_some_coolness.pdf,
@@ -215,6 +202,16 @@ References
    http://www.telegraph.co.uk/news/worldnews/northamerica/usa/1489105/Leading-scientific-journals-are-censoring-debate-on-global-warming.html,
    accessed on 2009-08-01.
 
+.. [#hwang] *Science* Editorial Statement Concerning Stem Cell
+   Manuscripts by Woo Suk Hwang, et al., 12 January 2006;
+   http://www.sciencemag.org/sciext/hwang2005/science_statement.pdf,
+   accessed on 2009-09-25.
+
 .. [#keenen] Douglas Keenen, "Remarks on the fraud allegation against
    some climatic research of Wei-Chyung Wang"; available at:
    http://www.informath.org/apprise/a5620.htm, accessed on 2009-04-21.
+
+.. [#lindzen2008] Richard S. Lindzen, "Climate Science: Is it
+   currently designed to answer questions?", 29 November 2008;
+   available at http://arxiv.org/abs/0809.3762, accessed on
+   2009-09-18.

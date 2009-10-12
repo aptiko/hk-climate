@@ -29,24 +29,23 @@ is the ice extent in September.
 
    How do we know the ice extent in the sea? We know it because the
    sea at the poles is being photographed by satellites on a daily
-   basis, since 1979.  Extracting the ice extent as a number of
-   square kilometres from the photographs requires image processing,
+   basis, since 1979.  Extracting the ice extent as a number of square
+   kilometres from the photographs requires image processing,
    and different scientists arrive at different results. This is one
-   reason why our chart might not be exactly the same as those you've
+   reason why the chart above might not be exactly the same as those you've
    seen elsewhere. Another reason is that some people might include
-   only the Arctic ocean into their calculations, whereas others
+   only the Arctic ocean in their calculations, whereas others
    include some bays around Greenland or so. The big picture,
    however, remains the same; the ice is being photographed, and
    there is little room for interpreting the photographs. This means
-   that the chart above is close to being a fact, rather than being
-   theory.
+   that the chart above is close to being a fact.
 
-   Ice extent before 1979, however, is mostly theory, because it
+   Ice extent before 1979, however, is an estimation, because it
    mostly comes from historical records given by ships, and it
    requires lots of assumptions to arrive at generalized results from
    records that are sparse in both time and location. Although this
    point does not affect our discussion about the melting ice, we
-   make it because, later on, the distinction between fact and theory
+   make it because, later on, the distinction between fact and estimation
    will be of tremendous importance.
 
 Whenever you see publications showing a worrying decreasing trend in
@@ -90,21 +89,18 @@ constantly shrinking during the last 30 years, by 10%.  What we want
 to point out right now is that this shrinking of total ice is in no
 way so marked as is the September Arctic ice, which is what is being
 featured in publications as the alleged evidence of how devastatingly
-fast anthropogenic (human-induced) global warming progresses. But if
+fast man-made global warming progresses. But if
 this reasoning were correct, then we could equally say that the planet
 is cooling, since the Antarctic ice extent has been slightly
 increasing.  For every hypothesis you can make about why the Arctic is
 more representative, we can make a hypothesis about why the Antarctic
 is more representative, and the one who has more imagination will win.
-In other words, whereas the evolution of ice extent during the last 30
-years is a fact, the idea that the Arctic is more representative than
-the Antarctic is theory, if not speculation.
 
 Another argument goes that the Arctic ice has not only shrunk in
 extent, but it has thinned, from an average of 3 metres to an average
 of 2 metres during the last 50 years. But whereas the ice extent is
 fact, because it is directly derived from satellite images, the
-so-called "average" ice thickness is theory. We have some measurements
+so-called "average" ice thickness is an estimation, and a rough one.  We have some measurements
 of ice thickness because occasionally submarines break the ice and
 emerge to the surface of the broken ice, and the captain records the
 thickness of the ice in the log; but if you have one measurement by a
@@ -112,7 +108,7 @@ submarine in November 1960, and you have another measurement by
 another submarine, at a point 1000 km away, in September 1961, and so
 on, it takes a large number of questionable assumptions to correlate
 these sparse measurements.  Attempts are also being made to derive the
-ice thickness from satellite images, but this is also theory. When
+ice thickness from satellite images, but this is also questionable. When
 processing images in order to determine the ice extent, you know that
 something close to white is ice, and something close to blue is water;
 but it's not that simple to determine ice thickness, and it is
@@ -134,7 +130,7 @@ What we wanted to show in this chapter is that there is nothing nearly
 as alarming as advertised about the melting sea ice. But we admit
 that the total earth ice has, indeed, been shrinking very slowly
 during the last 30 years.  Does this constitute evidence of
-anthropogenic global warming? We will deal with this question, and
+man-made global warming? We will deal with this question, and
 with the interesting (but not unprecedented) changes in the Arctic, in
 a later chapter.
 

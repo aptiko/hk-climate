@@ -6,8 +6,7 @@ restindex
 Authors
 =======
 
-| Written by Antonis Christofides, Demetris Koutsoyiannis, Nikos
-  Mamassis, and Andreas Efstratiadis
+| Written by Antonis Christofides and Nikos Mamassis
 | National Technical University of Athens
 | Department of Water Resources and Environmental Engineering
 
