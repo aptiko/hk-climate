@@ -1,0 +1,52 @@
+#!/usr/bin/python
+# Takes the r2w input and combines it into one rest file, so that it can
+# then be used to provide a pdf.
+
+def find_what_to_combine():
+    """Read index.txt, get section names from there, and return list of
+    filenames to be combined."""
+    import os.path
+    index = os.path.join('input', 'index.txt')
+    f = open(index)
+    for line in f:
+        line = line.strip()
+        if line.startswith('section-pages:'): break
+    if not line.startswith('section-pages:'):
+        raise Exception("Could not find a section-pages line in " + index.txt)
+    line = line[14:]
+    items = [index]
+    for item in line.split(','):
+        item = item.strip()
+        if item: items.append(os.path.join('input', item+'.txt'))
+    return items
+
+def process_item(filename):
+    """Open filename and return a pair of strings, which are the main contents
+    of the file and the references part (the latter is without title)"""
+    f = open(filename)
+    main_part, references = '', ''
+    in_restindex = False
+    in_references = False
+    for line in f:
+        if in_restindex:
+            if line.strip()=='/restindex': in_restindex = False
+            continue
+        if line.strip()=='restindex': in_restindex = True; continue
+        if in_references:
+            if line!='----------\n': references += line
+            continue
+        if line=='References\n': in_references = True; continue
+        main_part += line
+    return (main_part, references)
+
+files = find_what_to_combine()
+main_part, references = '', ''
+for file in files:
+    m, r = process_item(file)
+    main_part += m
+    references += r
+print main_part
+print 'References'
+print '=========='
+print ''
+print references

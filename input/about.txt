@@ -1,0 +1,63 @@
+restindex
+    page-title: About
+    include: No
+/restindex
+
+Authors
+=======
+
+| Written by Antonis Christofides, Demetris Koutsoyiannis, Nikos
+  Mamassis, and Andreas Efstratiadis
+| National Technical University of Athens
+| Department of Water Resources and Environmental Engineering
+
+Copyright and licensing
+=======================
+
+© 2009 The authors
+
+Permission is hereby granted to copy, distribute and modify this work
+under the terms of the Creative Commons Attribution Noncommercial
+ShareAlike license version 3.0 [#cc-by-nc-sa]_, subject to constraints
+on included third-party material as explained below.
+
+The quotations are copyrighted by their authors or publishers and are
+only used here under fair use, with the exception of the quotation of
+the President of the Royal Society to the Admiralty, which is in the
+public domain, and of the quotation of Emmanouel Roides, the Greek
+original of which is in the public domain and the English translation
+is © 2009 Antonis Christofides, who hereby grants anyone the right to
+use it for any purpose, without any conditions, unless such conditions
+are required by law. The photograph of Kolmogorov is from the
+Wikimedia Commons [#kolmogorov-photo]_, where it is stated that it
+used to be in the public domain but now the copyright status is
+uncertain. The photograph of Hurst is from the book *Statisticians of
+the Centuries*, edited by C. C. Heyde and E. Seneta, Springer-Verlag,
+2001 (p. 335); according to Prof. Seneta (personal communication on 5
+and 6 August 2009), its origin is uncertain (Prof. Heyde, who handled
+it, has died). The chart from p. 600 of IPCC's AR4, The Physical
+Science Basis, is © 2007 Intergovernmental Panel on Climate Change.
+(The other charts have been made by the authors and are licensed under
+the same terms as the rest of the work.)
+
+Contact
+=======
+
+| Antonis Christofides
+| Department of Water Resources and Environmental Engineering
+| School of Civil Engineering
+| National Technical University of Athens
+| 15980 Zografou
+| Greece
+
+Email: hk-climate at itia.ntua.gr
+
+References
+==========
+
+.. [#cc-by-nc-sa] http://creativecommons.org/licenses/by-nc-sa/3.0/,
+   accessed on 2009-08-05.
+
+.. [#kolmogorov-photo]
+   http://commons.wikimedia.org/wiki/File:Kolmogorov-m.jpg, accessed
+   on 2009-08-05.

@@ -5,8 +5,6 @@ restindex
 The scientific consensus
 ========================
 
-**[Ready for internal review.]**
-
 .. epigraph::
 
    *"[The] planet from which the little prince came is the asteroid
@@ -138,16 +136,19 @@ explained that, in order to be successful in publishing papers,
 scientists should not pick important problems, not challenge existing
 beliefs, not obtain surprising results, not use simple methods, not
 fully disclose how they reached their results, and not write clearly.
-[I want to add a story about the Science magazine rejecting dissenting
-opinions, citation needed]. To top it all, the number of scientific
-fraud incidents that go unpunished, or even encouraged, is increasing.
-An investigation is ongoing about serious allegations of data
-fabrication by a well-known climate scientist, and serious allegations
-of cover-up by his university [#keenen]_. [Second incident needed.]
-These are not isolated events; they are representative of the dominant
-science culture today: push for publications, push for image, do
-favours to colleagues and expect favours from them, and neglect
-science ethics.
+Leading scientific journals such as Science and Nature refuse to
+publish dissenting opinions [#journal-censoring]_.  To top it all, the
+number of scientific fraud incidents that go unpunished, or even
+encouraged, is increasing.  An investigation is ongoing about serious
+allegations of data fabrication by a well-known climate scientist, and
+serious allegations of cover-up by his university [#keenen]_.
+Recently, in our university, after a long discussion on the
+seriousness of the undisputed fact that a paper had been plagiarized
+by a lecturer (and candidate assistant professor), the assembly
+promoted the lecturer to assistant professor. These are not isolated
+events; they are representative of the dominant science culture today:
+push for publications, push for image, do favours to colleagues and
+expect favours from them, and neglect science ethics.
 
 In conclusion, rather than arguing about whether there is consensus
 (or consensus of consensus), we'd spend our time much better if we
@@ -207,6 +208,12 @@ References
    Contributions: The Author's Formula", Behavioral and Brain Sciences 5,
    pp. 197-199, June 1982; available at
    http://ideas.repec.org/p/wpa/wuwpgt/0502057.html, accessed on
+
+.. [#journal-censoring] Robert Matthews, "Leading scientific journals
+   'are censoring debate on global warming'", *The Sunday Telegraph,*
+   1 May 2005; available at
+   http://www.telegraph.co.uk/news/worldnews/northamerica/usa/1489105/Leading-scientific-journals-are-censoring-debate-on-global-warming.html,
+   accessed on 2009-08-01.
 
 .. [#keenen] Douglas Keenen, "Remarks on the fraud allegation against
    some climatic research of Wei-Chyung Wang"; available at:

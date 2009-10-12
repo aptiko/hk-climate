@@ -2,10 +2,8 @@ restindex
     page-title: Epilogue
 /restindex
 
-Epilogue: Chaos, Hurst-Kolmogorov pragmaticity, and uncertainty
-===============================================================
-
-**[Needs expansion.]**
+Epilogue: Chaos, Hurst-Kolmogorov behaviour, and uncertainty
+============================================================
 
 Have you ever wondered how weather predictions are made? If you think
 that it's meteorologists looking at satellite pictures or weather maps
@@ -41,19 +39,19 @@ model, tried to make a forecast for two months ahead, and for some
 reason he performed the calculation twice.  Although in both
 calculations he used the same weather model and the same initial
 conditions, the results were completely different. At first he thought
-he had made an error, and after trying to locate the error, he found
-out that he had made no error; but one of the times he had run the
-simulation, he had rounded the initial conditions to the third decimal
-digit; the other time he had rounded to the sixth decimal digit
-[#cooper]_.  This means that even if you could accurately determine the
-initial conditions in every place of the earth (and the atmosphere),
-you'd still be unable to predict the weather in two months: because an
-input temperature of 31.23856 and an input temperature of 31.23857
-would give completely different results. The mathematical term for this
-is **chaos**; we say that a function is chaotic if infinitesimal
-differences in the input cause huge differences in the output. The
-reason weather models have such unstable behaviour when you try to
-forecast the weather two months ahead is that the weather is chaotic.
+he had made an error, and after investigation he found that one of the
+times he had run the simulation he had rounded the initial conditions
+to the third decimal digit; the other time he had rounded to the sixth
+decimal digit [#cooper]_.  This means that even if you could
+accurately determine the initial conditions in every place of the
+earth (and the atmosphere), you'd still be unable to predict the
+weather in two months: because an input temperature of 31.23856 and an
+input temperature of 31.23857 would give completely different results.
+The mathematical term for this is **chaos**; we say that a function is
+chaotic if infinitesimal differences in the input cause huge
+differences in the output. The reason weather models have such
+unstable behaviour when you try to forecast the weather two months
+ahead is that the weather is chaotic.
 
 Another way to explain this is the well-known example with the
 hurricane and the butterfly. If you tried to forecast if a hurricane
@@ -96,9 +94,7 @@ weeks ahead, simply because you don't know what all butterflies of the
 world are doing or will do, let alone all molecules of air in the
 atmosphere; and even if you knew, it would still not be enough,
 because if you knew the molecules' speed with an accuracy of 20
-decimal digits, such as 25.15235789634239283553, the 21st digit would
-make the difference; not just a difference between sparse clouds and
-many clouds, but a difference between sunshine and heavy snow.
+decimal digits, the 21st digit would make the difference.
 
 There are, however, important things that you know about the roulette.
 Although its results are purely random, you know that the average
@@ -108,27 +104,99 @@ mean of 18, as Figure 1 shows. But the roulette is an extremely simple
 artificial system. Natural systems are much more complicated than
 that.
 
-.. figure:: images/roulette-climate.png
+.. figure:: images/roulette.png
 
-   Figure 1: How the climate would behave if it were like a roulette
+   Figure 1: 200 random roulette outcomes
 
 People have been tempted to think of climate in much the same way as a
 roulette, and that is, unfortunately, the dominating view in climate
-science. It is alleged that climate is something like the average
-value of the roulette, with the weather being something like the
-specific roulette outcome. In other words, it is alleged that the
-average temperature of the Earth is, say, 15°C, but the temperature in
-Athens in 13 April 2009 can be 22°C, in much the same way that the
-average roulette outcome is 18 but a specific roulette outcome can be
-31. If you average many successive roulette outcomes, the result will
-be 18; and it is claimed that, similarly, if you average the
-temperature of all locations of the Earth for many successive years,
-the result will be 15°C. The roulette outcome varies, but the
-underlying average remains the same.  If the average of the roulette
-changes, this will be traced to a specific reason, such as a
-modification of the wheel; and it is assumed that a change in the
-"underlying climate" can also be attributed to a specific reason. Is
-this correct? Here is where Hurst and Kolmogorov come in.
+science. It is alleged that "climate", or "signal", is something like
+the average value of the roulette, with the "weather", or "noise",
+being something like the specific roulette outcome. It is alleged that
+the average temperature of the Earth is, say, 15°C, but the
+temperature in Athens in 13 April 2009 can be 22°C, in much the same
+way that the average roulette outcome is 18 but a specific roulette
+outcome can be 31. If you average many successive roulette outcomes,
+the result will be 18; and it is claimed that, similarly, if you
+average the temperature of all locations of the Earth for many
+successive years, the result will be, say, 15°C. The roulette outcome
+varies, but the underlying average remains the same.  If the average
+of the roulette changes, this will be traced to a specific reason,
+such as a modification of the wheel; and it is assumed that a change
+in the "underlying climate" can also be attributed to a specific
+reason.
+
+However, as you can see in Figure 2, which shows the temperature
+during the last 10 thousand years, the long-term behaviour of
+temperature is nothing like a roulette; and if you try to zoom out to
+100 thousand years (Figure 3) or to 800 thousand years (Figure 4),
+you'll see that not only does it not get any better, but what you see
+after zooming out is nothing like what the previous chart suggested.
+It is likely that if we had data further into the past, and we could
+zoom out more, we would again see a picture very different from what
+we expect by looking at Figure 4. What looks like "signal" in Figure 2
+is only "noise" in Figure 3, and what looks like "signal" in Figure 4
+would again look like "noise" if we had enough data to further zoom
+out.
+
+.. figure:: images/climate-in-last-10-thousand-years.png
+
+   Figure 2: The temperature of the Earth during the last 10 thousand
+   years (difference from today in °C)
+
+.. figure:: images/climate-in-last-100-thousand-years.png
+
+   Figure 3: The temperature of the Earth during the last 100 thousand
+   years (difference from today in °C)
+
+
+.. figure:: images/climate-in-last-800-thousand-years.png
+
+   Figure 4: The temperature of the Earth during the last 800 thousand
+   years (difference from today in °C) [#last-800-thousand]_
+
+Roulette is unpredictable in the short term, but very predictable in
+the long term: you can look at its outcomes as random noise on a
+well-known signal. Roulette is very uncertain when you zoom in, but
+very certain when you zoom out. Climate is equally uncertain at all
+zoom levels.  In fact, mathematical analysis of the climate indicates
+that its behaviour is such that the uncertainty is the maximum
+possible at all zoom levels. This maximisation of uncertainty at all
+scales is called the **Hurst-Kolmogorov behaviour** of climatic
+processes [#hk]_.
+
+Nature loves uncertainty, and it fools us in two ways: on the one hand
+we cannot predict the future of climate, even if we fully know the
+natural laws that describe it, because of chaos; and on the other
+hand, we can't be very certain of the statistically expected behaviour
+of climate which is based on our observations of the past, because of
+the Hurst-Kolmogorov behaviour.
+
+The polar ice is slowly melting, and the climate is slowly changing.
+Why? We don't know. Not because we haven't measured enough; and not
+because we haven't studied it enough. The reason we don't know is that
+the uncertainty is structured inside the climate, as it is structured
+inside life itself. Humans do affect climate change, as they have
+always been doing, as butterflies also do, their actions contributing
+together with infinite other interacting actions to an infinitely
+complex and entirely unpredictable system, which depends on everything
+and yet on nothing, which is at the same time deterministic and
+random.
+
+.. class:: hk
+
++--------------------+-------------------+---------------------+
+| .. class:: photo   |                   | .. class:: photo    |
+|                    |                   |                     |
+| |hurst|            |                   | |kolmogorov|        |
+|                    |                   |                     |
+| | Harold Hurst     |                   | | Andrey Kolmogorov |
+| | (1880–1978)      |                   | | (1903–1987)       |
++--------------------+-------------------+---------------------+
+
+.. |hurst|      image:: images/hurst.jpg
+.. |kolmogorov| image:: images/kolmogorov.jpg
+
 
 References
 ----------
@@ -136,3 +204,29 @@ References
 .. [#cooper] N. G. Cooper, *From Cardinals to Chaos: Reflections on
    the life and legacy of Stanislaw Ulam,* Cambridge Univ. Press,
    1989.
+
+.. [#last-800-thousand] J. Jouzel et al., EPICA Dome C Ice Core 800KYr
+   Deuterium Data and Temperature Estimates, IGBP PAGES/World Data
+   Center for Paleoclimatology, Data Contribution Series #2007-091,
+   NOAA/NCDC Paleoclimatology Program, Boulder CO, USA;
+   ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc3deuttemp2007.txt,
+   accessed on 2009-08-06.
+
+.. [#hk] For more on the Hurst-Kolmogorov behaviour, see the relevant
+   works by Koutsoyiannis, a list of which can be found at
+   http://www.itia.ntua.gr/en/documents/?tags=Hurst (accessed on
+   2009-08-03). A relatively easy introduction is the following:
+
+   D. Koutsoyiannis, Nonstationarity versus scaling in hydrology,
+   *Journal of Hydrology* **324** (1-4), 239–254,
+   doi:10.1016/j.jhydrol.2005.09.022., 2006.
+
+   The works by Kolmogorov and Hurst have historical significance:
+
+   A. N. Kolmogorov, Wienersche Spiralen und einige andere
+   interessante Kurven in Hilbertschen Raum, *Doklady Akademii Nauk URSS*
+   **26**, 115–118, 1940.
+
+   H. E. Hurst, Long term storage capacities of reservoirs,
+   *Transactions of the American Society of Civil Engineers* **116**,
+   776–808, 1951.

@@ -1,13 +1,13 @@
 restindex
-    section-pages: , ice, extreme, ownobservations, average, models, consensus, preemptive, bigoil, epilogue
+    section-pages: , ice, extreme, changing, models, consensus, preemptive, epilogue
 /restindex
 
 Welcome to HK climate
 =====================
 
 In this text, we maintain that there is no reason whatsoever to worry
-about anthropogenic (human-induced) climate change, because there is
-no evidence whatsoever that such a thing is happening. We explain that
+about anthropogenic (man-made) climate change, because there is no
+evidence whatsoever that such a thing is happening. We explain that
 it is all misinformation, and we invite you to check the evidence and
 reasoning that we provide to you.
 
@@ -17,14 +17,13 @@ arguments:
 
 * The ice near the poles has been melting.
 * Extreme weather phenomena have been increasing in frequency.
-* You remember that the weather was different in your childhood.
 * The average temperature of the earth has been increasing.
+* You remember that the weather was different in your childhood.
 * The computer models predict a further temperature rise in the
   future.
 * Scientists agree that there is anthropogenic climate change.
 * In the absence of conclusive evidence, action should be taken
   pre-emptively.
-* We are in the pay of big oil.
 
 In the following pages, we examine these arguments one by one. We show
 that some are entirely false; and that some may be correct but they do

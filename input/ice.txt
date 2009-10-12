@@ -4,8 +4,6 @@ restindex
 The melting ice
 ===============
 
-**[Ready for internal review.]**
-
 The ice in the Arctic is never the same. It freezes and thaws all the
 time. It builds up during winter, and it melts again during summer. In
 September most Arctic ice has melted, and it starts to build up again;

@@ -27,6 +27,8 @@
         print_details(default_section)
     #>
     <p/>
+    <ul><li><a href="about.html">About</a></li></ul>
+    <p/>
     </div>
   </td>
   <td id="content">

@@ -4,8 +4,6 @@ restindex
 The climate models
 ==================
 
-**[Ready for internal review.]**
-
 .. epigraph::
 
    *"There is considerable confidence that Atmosphere-Ocean

@@ -4,8 +4,6 @@ restindex
 The pre-emptive action
 ======================
 
-**[Ready for internal review.]**
-
 "Even if there is no conclusive evidence of anthropogenic (man-made)
 global warming," goes an often-heard argument, "we shouldn't wait
 until we see a problem; we should take action before".
@@ -62,19 +60,21 @@ found in consuming less energy. The only serious alternative for
 pre-emptive action is therefore alternative energy sources.
 
 Once more, as much as you cannot make an omelette without breaking the
-eggs, you cannot produce energy without harming the environment. Wind
-turbines may look beautiful to you, but in order to replace one fossil
-fuel power plant you need one or two thousand wind turbines. It may be
-difficult to understand what one thousand wind turbines means, until
-you see a huge number, count them, and find them to be only 50 or 100.
-In mountainous areas like Greece, wind turbines can seriously harm the
-landscape. What's more, thousands of km of roads need to be opened for
-these turbines to be installed and maintained, further harming the
-landscape. Finally, wind turbines produce energy when wind blows, and
-not necessarily when you want the energy. If there existed an easy way
-for storing electric power, your house wouldn't need to be connected
-to the power grid: you'd buy charged batteries once in a while and
-that would be all; and your car would simply be electric.
+eggs, you cannot produce energy without harming the environment.  In
+order to replace one fossil fuel power plant you need one or two
+thousand wind turbines. It may be difficult to understand what one
+thousand wind turbines means, until you see a huge number, count them,
+and find them to be only 50 or 100.  In mountainous areas like Greece,
+wind turbines can seriously harm the landscape. What's more, thousands
+of km of roads need to be opened for these turbines to be installed
+and maintained, further harming the landscape. Finally, wind turbines
+produce energy when wind blows, and not necessarily when you want the
+energy. There is no easy way to store electric power, which usually
+needs to be consumed the moment it is produced; and you can't just
+switch on a thermoelectric power plant when the wind stops blowing,
+because thermoelectric plants need from a few hours to a few days to
+warm up. Therefore, in many cases, wind turbines save close to
+nothing, because thermoelectric plants must stay on.
 
 Similarly, for producing energy from the sun, in the huge quantities
 that we consume, we'd need to cover vast areas with mirrors or solar
@@ -95,15 +95,15 @@ There is only one form of energy which can replace fossil fuel plants
 reliably and without burning anything: nuclear power. But this, even
 if we ignore the probability of accidents, has the problem of nuclear
 waste.  You can build the plant today and not worry about what you are
-going to do when it closes. But it *will* close, about 50 years from
-now.  You cannot demolish a nuclear reactor. You can shut it down,
-bury it in concrete, and hope that nothing bad is going to happen for
-one or two thousand years. (Incidentally, if you think that nuclear
-fusion is the answer, because it is supposedly clean: maybe it is, but
-it's not here yet. No nuclear fusion reactor has yet been made that
-produces more energy than it consumes. Until one is made, nuclear
-fusion will only be hope, and there can be no guarantee that it will
-be ready when we need it.)
+going to do when it closes. But it *will* close, about 50 years after
+it is constructed.  You cannot demolish a nuclear reactor. You can
+shut it down, bury it in concrete, and hope that nothing bad is going
+to happen for one or two thousand years. (Incidentally, if you think
+that nuclear fusion is the answer, because it is supposedly clean:
+maybe it is, but it's not here yet. No nuclear fusion reactor has yet
+been made that produces more energy than it consumes. Until one is
+made, nuclear fusion will only be hope, and there can be no guarantee
+that it will be ready when we need it.)
 
 In order to evaluate these risks, you need to think in a cool manner.
 You must evaluate the dangers of fossil fuel correctly, the problems
@@ -117,27 +117,51 @@ action.  The economy is in serious trouble. We are running out of
 energy. We are polluting underground water. We consume 15 calories of
 energy for each calory of food that we place on our table. We raise
 chicken in inhumane conditions in dark, stinking factories, and then
-we eat their sick meat and their sick eggs.  The same goes on for all
-kinds of food. We are gradually extiguishing the night sky, and the
-inherent beauty of natural darkness, with our light pollution. We are
-expanding our noise-polluting roads and we live in conditions where
-living a moment's peace becomes increasingly difficult. We are running
-around like crazy, full of stress and depression.  These problems are
-right in front of our eyes, and we live in them every day. Why do we
-need to take pre-emptive action against a non-problem, when we have
-all these pressing problems that need immediate attention? Taking
-pre-emptive action against the alleged anthropogenic climate change
-could further harm the environment, and at the same time it takes our
-attention away from real, undisputed problems.
+we eat their sick meat and their sick eggs ([#salatin]_, p. 104;
+[#sick-poultry]_). The same goes on for all kinds of food. We have
+submitted control of world food supply to a few multinational
+corporations [#food]_. We are gradually extiguishing the night sky,
+and the inherent beauty of natural darkness, with our light pollution
+[#light-pollution]_. We are expanding our noise-polluting roads and we
+live in conditions where living a moment's peace becomes increasingly
+difficult [#noise-pollution]_. We are running around like crazy, full
+of stress and depression.  These problems are right in front of our
+eyes, and we live in them every day. Why do we need to take
+pre-emptive action against a non-problem, when we have all these
+pressing problems that need immediate attention? Taking pre-emptive
+action against the alleged anthropogenic climate change could further
+harm the environment, and at the same time it takes our attention away
+from real, undisputed problems.
 
-Next: `The big oil`_
+Next: `Epilogue`_
 
-.. _the big oil: bigoil.html
+.. _epilogue: epilogue.html
 
 
 References
 ----------
 
-.. [#banning-the-bulb] A. Christofides, "On banning the bulb", 2009;
+.. [#banning-the-bulb] Antonis Christofides, "On banning the bulb", 2009;
    http://www.itia.ntua.gr/antonis/environment/on-banning-the-bulb,
    accessed on 2009-04-28.
+
+.. [#salatin] Joel Salatin, *You can farm: The entrepreneur's guide to
+   start and succeed in a farming enterprise,* 1998.
+
+.. [#sick-poultry]
+   http://farmsanctuary.org/issues/factoryfarming/eggs/gemperle.html,
+   accessed on 2009-07-13.
+
+.. [#food] Action Aid International, *Power hungry: Six reasons to
+   regulate global food corporations,* 2005;
+   http://www.globalpolicy.org/images/pdfs/01powerhungry.pdf, accessed
+   on 2009-07-29.
+
+.. [#light-pollution] Verlyn Klinkenborg, "Our vanishing night",
+   *National Geographic,* November 2008;
+   http://ngm.nationalgeographic.com/2008/11/light-pollution/klinkenborg-text/1,
+   accessed on 2009-07-13.
+
+.. [#noise-pollution] Noise (is) pollution, *The Quiet Zone* **8**,
+   Noise Pollution Clearinghouse, Fall 2006; available at
+   http://www.nonoise.org/library/qz/, accessed on 2009-08-05.

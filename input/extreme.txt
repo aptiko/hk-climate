@@ -36,47 +36,79 @@ The extreme weather
    ―Exodus 9:24 (NIV)
 
 Extreme weather phenomena, however you define them, have been
-happening throughout mankind's memory.  Has the frequency of extreme
-weather phenomena increased?
+happening throughout mankind's memory. During the last decade, we have
+been told by the media that such events are increasing in frequency or
+that they are becoming more intense, and after each catastrophic storm
+the word goes that the storm was because of man-made global warming.
+It has been implied, for example, that Hurricane Katrina has been the
+result of man-made climate change [#pielke-jr]_.  There are two
+claims involved here: (a) that extreme weather events are increasing
+or intensifying; and (b) that this is the result of man-made global
+warming. Let's examine these claims.
 
-In order to answer this question, we need to define what we mean by
-extreme weather phenomena. If last year there was a deadly hurricane
-in the U.S., and this year there has been a huge flood in Poland, and
-next year there is a huge flood in Spain, and the year after that
-there is a typhoon in China, you can't just say anything at all about
-the frequency of such phenomena, until you take *all* similar
-phenomena of a large enough period in the past and count them. If you
-define hurricanes and typhoons as extreme phenomena, you need to look
-at *all* hurricanes and typhoons of, say, the last 100 years, and not
-just the ones you remember, and see if their frequency is increasing.
-Here are some charts:
+We live in Athens, Greece, and the most extreme events we remember
+witnessing are a 10-day-long heat wave of 45°C (113°F) in the summer
+of 1987; an extremely cold winter in 1986–1987; and intense rainfall
+and flooding, which resulted in several deaths, in November 1978.
+More recent incidents, as far as we can remember, have been less
+marked, and therefore, as everyday casual observers rather than as
+scientists, we don't see any evidence that extreme weather events in
+Athens have increased. Our subjective experience of Athens may of
+course be different than your subjective experience of New Orleans or
+of wherever you happen to be living; but if you infer that extreme
+weather events are increasing because you witnessed Katrina, we could
+also infer that extreme weather events are decreasing because we live
+in Athens. What each of us has personally witnessed could well be
+random.
 
-[Four charts: u.s. hurricanes, china typhoons, spanish and polish
-floods.]
+But then what about the huge number of extreme weather events that you
+have not witnessed and have been brought to your home by the media?
+Well, you'll never hear in the news that the weather in Greece is
+perfectly normal, because this is not news. You might be interested in
+learning that a famine has struck some place in the world, but you'd
+be quited bored to be told the list of countries whose diet remains
+unaffected. It is reasonable, therefore, for the media to transmit
+pictures of extreme weather from around the world, from places which
+may not make weather news again for a century. As much as it is
+debatable whether the extreme events have changed in the last few
+decades, it is beyond doubt that the penetration of the media into the
+remotest locations of the planet has increased dramatically.
 
-These charts are not proof that extreme weather phenomena are not
-increasing; we might have been cherry-picking. The point that we are
-trying to make is that a deadly hurricane, or any kind of extreme
-weather event, does not constitute evidence of climate change; and
-that it is very difficult to define, or measure, the "frequency of
-extreme weather phenomena".
+Our subjective impressions of such events, whether we witnessed them
+or learned them from the media, are therefore of no help. We need to
+be more scientific: we need to define what we mean by extreme weather
+phenomena and count *all* such phenomena of a given large enough
+period. Figure 1 shows, for example, the number of major Atlantic
+hurricanes per 5 year period from 1946 to 2005; and although this has
+been increasing from 1990 to 2005 (and appears to be falling since,
+which is not visible in Figure 1), it doesn't look like anything
+really unprecedented. Note, also, that this is only the Atlantic:
+elsewhere things could have been different, and, indeed, the frequency
+of occurrence of cyclones and typhoons in China seems to be decreasing
+[#ren]_. When researching such frequency globally, nothing is found
+that suggests any significant connection with global warming
+[#webster]_.  Other research indicates that, while the number of
+hurricanes may be nothing special, there is an unprecedented increase
+in their intensity [#emanuel]_; however, that research is debated
+([#emanuel-debate1]_, [#emanuel-debate2]_).
 
-There is, however, an undeniable increase in the frequency with which
-media trasmit pictures of extreme phenomena from around the world. We
-observe floods and destructions that we would otherwise not know, and
-this creates a false perception that the extreme phenomena have become
-more frequent.
+.. figure:: images/major-hurricanes.png
 
-Furthermore, there is a change in the way we perceive nature. Being
-used to always having water in the tap of our house and air
-conditioners that adjust the temperature throughout the year, we have
-forgotten that Nature does not feature any such kind of monotonous
-constantness. We have become passive observers and we magnify every
-small unsettling natural phenomenon.
+   Figure 1: Number of category 3–5 Atlantic hurricanes
+   [#ncdc-hurricanes]_
+
+As in the case with the melting ice, our aim here is only to show that
+there is nothing nearly as alarming as advertised about extreme
+weather events. It is media penetration that causes us the impression
+of dramatic increase in such events. In reality, there is some change,
+but it is not surprising and not unprecedented; and since it is not
+unprecedented, it does not constitute any evidence of man-made global
+warming. What causes it? We'll come back to this question in the
+epilogue.
 
 Next: `The changing climate`_
 
-.. _the changing climate: ownobservations.html
+.. _the changing climate: changing.html
 
 References
 ----------
@@ -84,3 +116,32 @@ References
 .. [#gilgamesh] Available at
    http://www.ancienttexts.org/library/mesopotamian/gilgamesh/tab11.htm,
    accessed 2009-04-19.
+
+.. [#pielke-jr] Pielke, R. A., Future economic damage from tropical
+   cyclones: sensitivities to societal and climate changes,
+   *Philosophical transactions of the Royal Society* **365**,
+   2717–2729, doi: doi:10.1098/rsta.2007.2086, 2007.
+
+.. [#ren] Fumin Ren et al., Changes in tropical cyclone
+   precipitation over China, *Geophysical Research Letters* **33**,
+   L20702, doi:10.1029/2006GL027951, 2006.
+
+.. [#webster] P. J. Webster et al., Changes in tropical cyclone
+   number, duration, and intensity in a warming environment, *Science*
+   **309** (5742), 1844–1846, doi: 10.1126/science.1116448, 2005.
+
+.. [#ncdc-hurricanes]
+   http://www.ncdc.noaa.gov/oa/climate/research/hurricane-climatology.html,
+   accessed on 2009-08-06.
+
+.. [#emanuel] Kerry Emanuel, Increasing destructiveness of tropical
+   cyclones over the past 30 years, *Nature* **436**,
+   doi:10.1038/nature03906, 2005.
+
+.. [#emanuel-debate1] Roger A. Pielke, Jr, Are there trends in
+   hurricane destruction?, *Nature* **438**, doi:10.1038/nature04426,
+   2005.
+   
+.. [#emanuel-debate2] Christopher W. Landsea, Hurricanes and global
+   warming, *Nature* **438**, doi:10.1038/nature04477, 2005.
+
