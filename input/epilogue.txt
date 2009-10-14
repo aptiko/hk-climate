@@ -8,8 +8,9 @@ Epilogue: Chaos, Hurst-Kolmogorov behaviour, and uncertainty
 Have you ever wondered how weather predictions are made? If you think
 that it's meteorologists looking at satellite pictures or weather maps
 and determining how current weather will move, you got it wrong.
-Weather predictions are made with weather models. Let's see how it
-works.
+Weather predictions are made with weather models (these are similar to
+climate models, but they work at different scales and have some other
+differences). Let's see how it works.
 
 Every 12 hours, meteorological centres around the world send
 meteorological balloons up. These are little balloons with several

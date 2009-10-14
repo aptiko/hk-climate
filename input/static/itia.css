@@ -7,7 +7,9 @@
 
 html { margin:0; padding:0; }
 
-body { font-family: Verdana; font-size: 11px; }
+@media screen {
+    body { font-family: Verdana; font-size: 11px; }
+}
 
 /*-------------- Header ----------------------*/
 
@@ -44,26 +46,39 @@ body { font-family: Verdana; font-size: 11px; }
     
 /*-------------- Breadcrumbs ----------------------*/
 
-#breadcrumbs {
-    color: #808080;
-    font-size: 9px;
-    margin-top: 2px;
-    text-transform: lowercase;
-    height: 1.6em;
-    line-height: 1.6em;
+@media screen {
+    #breadcrumbs {
+        color: #808080;
+        font-size: 9px;
+        margin-top: 2px;
+        text-transform: lowercase;
+        height: 1.6em;
+        line-height: 1.6em;
+    }
+    #breadcrumbs p { margin-top: 0; }
+    #breadcrumbs ul { display: inline; padding-left: 0;}
+    #breadcrumbs li { display: inline; white-space: nowrap; }
+    #breadcrumbs a { color: #0080AA; text-decoration: none; }
+    .breadcrumb-separator { font-size: 150%; }
 }
-#breadcrumbs p { margin-top: 0; }
-#breadcrumbs ul { display: inline; padding-left: 0;}
-#breadcrumbs li { display: inline; white-space: nowrap; }
-#breadcrumbs a { color: #0080AA; text-decoration: none; }
-.breadcrumb-separator { font-size: 150%; }
+
+@media print {
+    #breadcrumbs { display: none; }
+}
 
 /*------------------------*/
 
-#content-wrapper {
-    font-family: Verdana;
-    font-size: 11px;
+@media screen {
+    #content-wrapper {
+        font-family: Verdana;
+        font-size: 11px;
+    }
 }
+
+@media print {
+    #content-wrapper { font-family: serif; font-size: 9pt; }
+}
+
 
 #content-wrapper tr {
     vertical-align: top;
@@ -71,11 +86,13 @@ body { font-family: Verdana; font-size: 11px; }
 
 /*-------------- Content ----------------------*/
 
-#content { 
-	padding-right: 11px;
-	padding-bottom: 20px;
-	font-family:  Verdana;
-        margin: 0 0 0 17em;
+@media screen {
+    #content { 
+            padding-right: 11px;
+            padding-bottom: 20px;
+            font-family:  Verdana;
+            margin: 0 0 0 17em;
+    }
 }
 
 #content table { 
@@ -86,60 +103,72 @@ th.heading-on-left { text-align: right; }
 
 th { text-align: left; }
 
-#content { font-family: Verdana; font-size: 14px; }
-#content h1 {
-    font-family: Verdana;
-    font-size: 14px; 
-    padding-top: 5px;
-    border-bottom: 1px solid #008080;
-    color: #008080;
+@media screen {
+    #content { font-family: Verdana; font-size: 14px; }
+    #content h1 {
+        font-family: Verdana;
+        font-size: 14px; 
+        padding-top: 5px;
+        border-bottom: 1px solid #008080;
+        color: #008080;
+    }
 }
 
-td#sidepane { width: 14em; }
+/*--------------- Sidepane -----------------*/
 
-#sidepane h1 {
-	padding-top: 5px;
-	border-bottom: 1px solid #008080;
-	font-weight: bold;
-        font-size: 11px;
-	color: #008080;
+@media screen {
+    td#sidepane { width: 14em; }
+
+    #sidepane h1 {
+            padding-top: 5px;
+            border-bottom: 1px solid #008080;
+            font-weight: bold;
+            font-size: 11px;
+            color: #008080;
+    }
+
+    #sidepane ul {
+            padding: 0;
+            margin-left: 0;
+            list-style-type: none;
+            text-decoration: none;
+            font-family:  Verdana, Georgia;
+            color: #008080;
+    }
+
+    #sidepane ul li {
+            padding-left: 0;
+            margin-left: 0;
+    }
+
+    #sidepane li a {
+            color: #0080AA;
+            text-decoration: none;
+    }
+
+    #sidepane li a.on {
+            border-bottom: 1px dashed #008080;
+    }
+
+    #sidenote {
+            float: left;
+            width: 150px; 
+            padding: 2px;
+    }
+
+    #sidenote h3 {
+            border-bottom: 1px solid #BCE27F;
+            color:  #008080;
+            font-family:  Verdana;
+            font-weight: bold;
+    }
 }
 
-#sidepane ul {
-        padding: 0;
-        margin-left: 0;
-        list-style-type: none;
-	text-decoration: none;
-	font-family:  Verdana, Georgia;
-	color: #008080;
+@media print {
+    #sidepane { display: none; }
 }
 
-#sidepane ul li {
-        padding-left: 0;
-        margin-left: 0;
-}
-
-#sidepane li a {
-        color: #0080AA;
-        text-decoration: none;
-}
-
-#sidepane li a.on {
-	border-bottom: 1px dashed #008080;
-}
-
-#sidenote {
-	float: left;
-	width: 150px; 
-	padding: 2px;
-}
-
-#sidenote h3 {
-	border-bottom: 1px solid #BCE27F;
-	color:  #008080;
-	font-family:  Verdana;
-	font-weight: bold;
-}
+/*------------------ Other ----------------*/
 
 input {
 	border-style: solid;
@@ -167,7 +196,7 @@ div.figure {
 }
 .caption { font-weight: bold; }
 
-.admonition { clear: both; border: double; margin: 0.2cm; padding: 0.2cm; background-color: #e8f8ff; }
+.admonition { border: double; margin: 0.2cm; padding: 0.2cm; background-color: #e8f8ff; }
 .admonition-title { font-weight: bold; }
 
 table.hk { border: none; width: 100%; text-align: center; }
