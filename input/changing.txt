@@ -109,12 +109,6 @@ such heat!", you exclaim; and you are tempted to think that the
 climate is changing in an unusual manner, and that the world is coming
 to an end.
 
-Now imagine for a while that you are Methuselah, the oldest known
-living tree on the planet, which is thought to be more than 4800 years
-old [#methuselah]_.  Humans are for you something as transient as
-houseflies are for humans. What humans call climate change, for you is
-but a change in the weather.
-
 Now imagine that you are a being as old as humanity itself. Humans are
 thought to inhabit this planet something like 100 thousand years.
 Figure 1 shows how the temperature has changed during these 100
@@ -127,48 +121,16 @@ thousand years.
 
 .. admonition:: How do we know?
 
-   How do we know Methuselah's age? A well-known way of finding the age
-   of a tree is by counting its rings, i.e., the number of concentric
-   circles that you see when you cut its trunk (you don't actually need
-   to cut the whole trunk, you can just extract a carrot-like specimen
-   from the trunk). The reason for the existence of the rings is that
-   each year the trunk grows faster during the rainy season and slower
-   during the dry season, causing a different colour in the cross-section
-   of the trunk. This technique, which is called dendrochronology, is
-   more successful in areas with a marked difference between rainy and
-   dry season [#archaeology]_.
-
-   How do we know that humanity is 100 thousand years old? The answer is
-   that we don't know, but it is a wild guess. There are two
-   complementary techniques: radiocarbon dating, and potassium-argon
-   dating [#archaeology]_.  Normally carbon atoms have 6 protons and 6
-   neutrons, and are known as carbon-12; but cosmic radiation causes some
-   carbon atoms in the atmosphere to have two additional neutrons; these
-   atoms are known as carbon-14, and they slowly decay with time. Living
-   organisms get their carbon directly or indirectly from the atmosphere,
-   and thus the proportion of carbon-14 in them is the same as in the atmosphere.
-   From the time of death, carbon-14 slowly decays, and from the
-   proportion of carbon-14 in a dead organism we can estimate its age, up
-   to 40 thousand years ago.  The dead organisms can be wooden artifacts,
-   burnt bones, charcoal from hearths, and so on. Because the
-   atmosphere's carbon-14 content has not always been the same, the
-   method has some error and, for the last few millenia, it is calibrated
-   and cross-checked with dendrochronology.
-
-   Potassium is an abundant element of the earth, and has a proportion of
-   radioactive potassium-40 atoms, which when decaying partly become
-   argon. Lava has zero argon content, because the argon escapes to the
-   atmosphere; but argon cannot escape from solid rock, and so by the
-   amount of argon in a volcanic rock we can estimate when the rock
-   consolidated. If an artifact or a bone is embedded in volcanic rock,
-   we know that its age is the same as that of the rock. This method
-   works for rocks from 100 thousand to several billion years old.
-
-   Thus, archaeologists are able to date some of their findings and from
-   the evidence they collect they can make rough estimations about when
-   and where Homo Sapiens or other species appeared and when they became
-   extinct. The exact date is unknown, but it is thought to be some time
-   between 500 thousand and 75 thousand years ago.
+   How do we know that humanity is 100 thousand years old? There are
+   several techniques that can be used to estimate the age of an old item
+   such as a fossil or an artifact; such techniques are dendrochronology,
+   radiocarbon dating, and pottasium-argon dating. For the sake of brevity
+   we won't go into detail; you can find information about them in books
+   [#archaeology]_ or by searching the web. Archaelogists and
+   palaeontologists use such techniques to collect evidence and make rough
+   estimations. The exact date of the appearance of Homo Sapiens is
+   unknown, but it is thought to be some time between 500 thousand and 75
+   thousand years ago [#archaeology]_.
 
    How do we know the evolution of earth temperature during the last
    hundred thousand years? In Antarctica and Greenland a new layer of ice
@@ -214,10 +176,6 @@ References
 
 .. [#newsweek] http://www.denisdutton.com/cooling_world.htm, accessed
    on 2009-04-21.
-
-.. [#methuselah] Christopher J. Earle, "Pinus longaeva", *The
-   Gymnosperm Database;* http://www.conifers.org/pi/pin/longaeva.htm,
-   accessed on 2009-04-21.
 
 .. [#archaeology] Brian M. Fagan, "Time", in *Archaeology: A Brief
    Introduction,* Fourth Edition, HarperCollins, 1991, pp. 51–72.

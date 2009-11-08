@@ -65,7 +65,7 @@ order to replace one fossil fuel power plant you need one or two
 thousand wind turbines. It may be difficult to understand what one
 thousand wind turbines means, until you see a huge number, count them,
 and find them to be only 50 or 100.  In mountainous areas like Greece,
-wind turbines can seriously harm the landscape. What's more, thousands
+wind turbines can harm the landscape. What's more, thousands
 of km of roads need to be opened for these turbines to be installed
 and maintained, further harming the landscape. Finally, wind turbines
 produce energy when wind blows, and not necessarily when you want the
@@ -80,7 +80,7 @@ Similarly, for producing energy from the sun, in the huge quantities
 that we consume, we'd need to cover vast areas with mirrors or solar
 cells or whatever, and, again, these would not produce energy during
 the night. For producing energy from water, huge reservoirs, that is,
-artificial lakes, need to be constructed, which poses serious
+artificial lakes, need to be constructed, which poses
 environmental questions; and the extent to which it is possible
 depends on whether there are mountains and enough water in the area.
 
@@ -112,8 +112,8 @@ correctly. Taking pre-emptive action against fossil fuel does not make
 sense any more than taking pre-emptive action against the renewables,
 since all have known problems.
 
-Finally, there is something strange about requests to take pre-emptive
-action.  The economy is in serious trouble. We are running out of
+Finally, it's not exactly that we don't have any other problems to
+deal with. The economy is in serious trouble. We are running out of
 energy. We are polluting underground water. We consume 15 calories of
 energy for each calory of food that we place on our table. We raise
 chicken in inhumane conditions in dark, stinking factories, and then

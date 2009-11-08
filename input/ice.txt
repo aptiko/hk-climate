@@ -116,7 +116,7 @@ debatable whether this is at all possible by processing a satellite
 image [#ice-thickness]_.
 
 Another important point about the Arctic ice is that the last 30 years
-for which we have measurements is only a tiny period of time. In the
+for which we have measurements is only a short period of time. In the
 summer of 2007 there was indeed the lowest ice extent during those 30
 years, and the only year in which the Northwest Passage was clear of
 ice. The only year in those 30 years; not the only year in shipping
