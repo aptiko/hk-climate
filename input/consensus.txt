@@ -44,15 +44,13 @@ There are several problems with the consensus argument. The first one
 is that it is difficult to define what consensus means and to verify
 whether such consensus exists. The media often claim about alleged
 consensus, but if you look carefully, they don't explain why they
-think that there is consensus. If someone claims that there is
-consensus about something, this does not mean that there is consensus;
-only that someone claims it.
+think that there is consensus.
 
 If by "consensus" we mean that almost all organisations who have
 stated an opinion agree that man-made global warming is occuring, then, yes, there may be
 consensus. This, however, is not the right way to define consensus.
 We'd need to examine a good number of these organisations, and check
-who are their members and what is the process by which the decision
+who their members are and what is the process by which the decision
 for the stating of the opinion was reached. Did the members vote?  How
 were they invited to vote and how many responded?  Was the decision
 made with a 90% majority? Or maybe only 51%?  Or was it maybe an
@@ -86,7 +84,7 @@ The difficulty in defining and measuring consensus, and the heated
 discussions about whether consensus exist, tempt us to make this
 provoking question: Is there scientific consensus that there is
 scientific consensus? You may think that this is a silly question, and
-we agree. But if you think that you are unqualified to judge things by
+we agree, but if you think that you are unqualified to judge things by
 yourself and therefore you can only count scientists as if they were
 casting votes, then you have a problem: counting them is quite
 difficult, and, similarly, you are probably unqualified to judge the
@@ -95,13 +93,9 @@ counting, and you will be trapped in our silly question.
 The second problem with the consensus argument stems from the first.
 Since consensus is difficult to define and estimate, if you use it as
 an argument then everyone believes in something simply because
-everyone else believes so. This is a well-known marketing trick:
-advertisements often try to convince you that everyone else is doing
-something, so you also have to do it. By creating the impression that
-everyone is doing something, everyone actually starts doing it.
-Sometimes it works, sometimes it doesn't, but it can, unfortunately,
-also work with scientists, and in the case of climate change there is an effort
-to do it.  Margaret Beckett, former UK Secretary of State for
+everyone else believes so.
+What's more, there is a conscious effort to silence dissenting
+opinions.  Margaret Beckett, former UK Secretary of State for
 Environment, Food and Rural Affairs, said that climate change skeptics
 should be denied media air time [#deny-airtime]_, and Franny Armstrong
 has suggested the same [#armstrong]_. If you deny media air time to
@@ -114,7 +108,7 @@ skeptics would be wrong even if the science had been settled, but such
 statements about stifling skepticism have been made since 1989, if not
 earlier [#lindzen1990]_.
 
-The third problem with the consensus argument is that science is not
+The final problem with the consensus argument is that science is not
 democratic.  If one hundred thousand scientists believe something and
 one scientist demonstrates that the something is wrong, then the
 something is wrong. In the previous chapters we've explained that the
@@ -122,9 +116,9 @@ man-made climate change hypothesis
 is unfounded, and even if all other scientists in the world disagreed,
 we'd still hold to it. Luckily we are not alone.
 
-But unfortunately, in practice science is strongly affected by
-politics. The quote from the Little Prince conveys this sad reality in
-a wonderful way, and people besides Antoine de Saint-Exupéry have
+Unfortunately, in practice science is strongly affected by
+politics. The quote from the Little Prince illustrates this reality,
+and people besides Antoine de Saint-Exupéry have
 explained the problems in more detail. Donald Miller [#miller]_ is
 good reading, explaining how the research funding system works, and
 the devastating way in which it pushes scientists from skepticism,
@@ -208,7 +202,7 @@ References
    accessed on 2009-09-25.
 
 .. [#keenen] Douglas Keenen, "Remarks on the fraud allegation against
-   some climatic research of Wei-Chyung Wang"; available at:
+   some climatic research of Wei-Chyung Wang"; available at
    http://www.informath.org/apprise/a5620.htm, accessed on 2009-04-21.
 
 .. [#lindzen2008] Richard S. Lindzen, "Climate Science: Is it

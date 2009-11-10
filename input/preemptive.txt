@@ -54,8 +54,8 @@ described above, we are also convinced that this is absolutely
 impossible the way western society and economy are structured, unless
 a large part of the population dies of starvation. Therefore, although
 we agree that long term measures to reverse the global energy
-consumption trend should be applied (and by long term we mean long
-term), the short term pre-emptive measures you are seeking cannot be
+consumption trend should be applied,
+the short term pre-emptive measures you are seeking cannot be
 found in consuming less energy. The only serious alternative for
 pre-emptive action is therefore alternative energy sources.
 
@@ -87,7 +87,7 @@ depends on whether there are mountains and enough water in the area.
 The renewables, as all these forms of energy are collectively called,
 certainly need to be explored; but there is no easy way. You can't
 just use the "renewables" label and think that you found a neat
-solution for all your problems. What's more, it is debatable whether
+solution for all your problems. It is debatable whether
 the technology of the renewables has reached a stage where they can
 entirely replace a significant part of fossil fuel power plants.
 

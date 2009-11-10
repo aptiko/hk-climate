@@ -88,11 +88,7 @@ than does a difference in temperature between yesterday and today.
 
 Imagine that you are a housefly born in Athens, Greece, in 15 July.
 Houseflies normally live up to 25 days, but you have an exceptionally
-long life and you die in 15 August.  We select 15 July to 15 August
-for our example because any temperature variations in this period are
-random in Greece (in contrast to, for example, April, where 1 April
-is, on the average, cooler than 30 April).
-
+long life and you die in 15 August.
 During your life, some days are hot, about 35―36°C, some are cool,
 about 29―30°C, and so you experience a large and interesting range of
 temperatures. It is 11 August, and you even remember an event that
@@ -126,7 +122,7 @@ thousand years.
    such as a fossil or an artifact; such techniques are dendrochronology,
    radiocarbon dating, and pottasium-argon dating. For the sake of brevity
    we won't go into detail; you can find information about them in books
-   [#archaeology]_ or by searching the web. Archaelogists and
+   (e.g. [#archaeology]_) or by searching the web. Archaelogists and
    palaeontologists use such techniques to collect evidence and make rough
    estimations. The exact date of the appearance of Homo Sapiens is
    unknown, but it is thought to be some time between 500 thousand and 75
@@ -137,14 +133,15 @@ thousand years.
    is added each year, covering the ice of the previous year.  These
    places have one long night and one long day each year, and the night
    ice is slightly different than the day ice, resulting in slightly
-   different colours. Like tree rings, we can see horizontal stripes in
+   different colours. We can therefore see horizontal stripes in
    ice columns extracted by drilling, and each stripe is one year. There
    are two complementary ways to determine the temperature of each year.
    First, as when you put frozen food in the oven, it warms outside but
    is still cold inside, the Antarctic ice retains its internal
-   temperature as it was thousands of years ago.  Second, most oxygen is
-   oxygen-16, but there is also an isotope oxygen-18, and the content of
-   oxygen-18 in snow depends on the temperature during the snowfall. By
+   temperature as it was thousands of years ago.  Second, oxygen atoms
+   normally have 8 protons and 8 neutrons, but there is also an isotope with 10 neutrons, called oxygen-18,
+   and the quantity of oxygen-18
+   in snow depends on the temperature during the snowfall. By
    determining the content of oxygen-18 in ice we can estimate the
    temperature during snowfall.  These two techniques are used together,
    for verification and calibration of one another [#paleoclimatology]_.

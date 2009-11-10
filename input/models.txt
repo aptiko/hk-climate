@@ -148,8 +148,8 @@ temperature. If, for example, the temperature of the planet is 15°C on
 the average, and in 1962 the temperature of the planet was 15.3°C,
 then the black line will be at +0.3 in 1962. The problem is that the
 comparison is between the real departure and the departure of each
-model. If a model says that the temperature is 10°C, and in reality
-the temperature is 15°C, this is not visible in Figure 1. This means
+model. If a model says that the temperature raised from 10 to 10.4°C, and in reality
+the temperature raised from 15 to 15.4°C, then the model would appear to coincide with reality in Figure 1. This means
 that the 60 lines of Figure 1 are artificially made in order to
 approximately fall on each other; if plotted without subtracting the
 mean, they would be 60 distinct lines, often very far from each other;
@@ -196,10 +196,9 @@ about one century; but we've never been given evidence that the match,
 to the doubtful extent that it exists, is anything better than
 data fitting.
 
-When someone claims that the models are good, the burden is on them to
-prove it. If I claim that you are an elephant, the burden is on me to
-provide the evidence; you do not need to prove that you are not an
-elephant. Instead of clear evidence, we are provided with confusing
+Extraordinary claims require extraordinary evidence. The claim that
+models can predict future climate is extraordinary; but
+instead of clear evidence, we are provided with confusing
 arguments and strange linguistic formations: rather than being told
 that "there is evidence that the models can predict future climate",
 we are being told that "there is considerable confidence that [the
@@ -215,7 +214,7 @@ the IPCC's 94-page-long Chapter 11 [#ipcc-regional]_, that is crammed
 with regional details?
 
 A number of studies explain why the models are not credible (e.g.
-[#frank]_, [#credibility-revisited]_). But we have chosen, in this
+[#frank]_, [#credibility]_). But we have chosen, in this
 chapter, to only look at what IPCC says. The IPCC should have provided
 evidence that models do a decent job, and then we'd be able to start
 discussing on the merit of that evidence. But the IPCC, as you can
@@ -249,10 +248,12 @@ References
    on 2009-04-24.
 
 .. [#frank] Patrick Frank, "A climate of belief", *Skeptic* 14(1), pp.
-   22―30, 2008.
+   22―30, 2008; available at
+   http://www.skeptic.com/the_magazine/featured_articles/v14n01_climate_of_belief.html,
+   accessed on 2009-04-06.
 
-.. [#credibility-revisited] G. G. Anagnostopoulos, D. Koutsoyiannis,
-   A. Christofides, A. Efstratiadis, and N. Mamassis, "Credibility of
-   climate predictions," *Hydrological Sciences Journal,*  to be
-   published on 2009.
-
+.. [#credibility] D. Koutsoyiannis, A. Efstratiadis, N. Mamassis, and
+   A. Christofides, "On the credibility of climate predictions,"
+   *Hydrological Sciences Journal* 53(4), pp. 671―684, 2008;
+   available at http://dx.doi.org/10.1623/hysj.53.4.671, accessed on
+   2009-11-10.

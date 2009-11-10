@@ -29,8 +29,8 @@ conditions in each piece are affected by its neighbouring pieces, we
 can calculate how each piece will evolve in time, and hence we have a
 prediction of the weather.  The number of calculations required is
 huge and can only be performed by a computer. In other words, a
-computer simulates the atmosphere. The system of simulation (which is
-effectively a set of equations) is called a weather model. The input
+computer simulates the atmosphere. The system of simulation
+is called a weather model. The input
 to the weather model (i.e. the measurements of the current weather) is
 called the initial conditions.
 
@@ -48,15 +48,15 @@ accurately determine the initial conditions in every place of the
 earth (and the atmosphere), you'd still be unable to predict the
 weather in two months: because an input temperature of 31.23856 and an
 input temperature of 31.23857 would give completely different results.
-The mathematical term for this is **chaos**; we say that a function is
-chaotic if infinitesimal differences in the input cause huge
-differences in the output. The reason weather models have such
-unstable behaviour when you try to forecast the weather two months
-ahead is that the weather is chaotic.
+The mathematical term for this is **chaos**; we say that a system is
+chaotic if infinitesimal differences in the initial conditions cause huge
+differences in the state of the system after some time. Weather models are chaotic, which means they become unstable
+when you try to forecast the weather two months
+ahead.
 
 Another way to explain this is the well-known example with the
 hurricane and the butterfly. If you tried to forecast if a hurricane
-in America will form a week from now, and you knew exactly the laws of
+in America will form a month from now, and you knew exactly the laws of
 motion that describe the creation of the hurricane, and you knew the
 initial conditions (the present conditions) in every point of the
 atmosphere, you'd still be unable to forecast; because even a
@@ -78,8 +78,8 @@ temperature of the ball, roulette, and wheel, the air temperature and
 pressure, humidity, and so on. Would you be able to predict the
 outcome? The answer is no, because this, too, is chaotic, provided you
 spin the roulette reasonably fast and provided you give the ball a
-reasonable initial speed. A mere random collision of a molecule of air
-would make a difference large enough in order to change the outcome.
+reasonable initial speed. A random collision of a molecule of air
+could make a difference large enough in order to change the outcome.
 This does not mean that the collision is the reason for the outcome;
 the outcome depends on everything and nothing at the same time, so
 that it is effectively random.
@@ -174,17 +174,17 @@ Changes in climate and the weather sometimes have a single dominant
 cause, and sometimes they are chaotic. The seasons, for example, are
 caused by the fact that the Sun's rays fall at a different angle in
 summer than in winter. A storm or a heat wave do not usually have a
-single dominant cause, but are created randomly out of chaotic
-processes. Why does the climate change? Again, there can be
+single dominant cause, but are created in a chaotic manner.
+Why does the climate change? Again, there can be
 identifiable dominant causes, or it can be a chaotic change. The
 man-made climate change hypothesis says that greenhouse gas emissions
 from human activities are the dominant cause; but we've shown that
 this hypothesis is unsupported. Whether there is any other dominant
 cause or whether these are routine chaotic changes is not resolved. We
-feel that it is the latter. We don't know what causes
-climate change, and the reason we don't know is that
+feel that it is the latter. We feel that our ignorance on what causes
+climate change is not because we haven't measured and studied enough, but because
 the uncertainty is structured in the climate, as it is structured
-in life itself. Humans do affect climate change, as they have
+in life itself. Humans do affect the climate, as they have
 always been doing, as butterflies also do, their actions contributing
 together with infinite other interacting actions to an infinitely
 complex and entirely unpredictable system, which depends on everything
@@ -227,7 +227,7 @@ References
 
    D. Koutsoyiannis, Nonstationarity versus scaling in hydrology,
    *Journal of Hydrology* **324** (1-4), 239–254,
-   doi:10.1016/j.jhydrol.2005.09.022., 2006.
+   doi: 10.1016/j.jhydrol.2005.09.022, 2006; available at http://www.itia.ntua.gr/en/docinfo/673/, accessed on 2009-08-03.
 
    The works by Kolmogorov and Hurst have historical significance:
 

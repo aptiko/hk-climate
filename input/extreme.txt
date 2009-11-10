@@ -113,12 +113,14 @@ References
 
 .. [#gilgamesh] Available at
    http://www.ancienttexts.org/library/mesopotamian/gilgamesh/tab11.htm,
-   accessed 2009-04-19.
+   accessed 2009-04-19. 
 
 .. [#pielke-jr] Pielke, R. A., Future economic damage from tropical
    cyclones: sensitivities to societal and climate changes,
    *Philosophical transactions of the Royal Society* **365**,
-   2717–2729, doi: doi:10.1098/rsta.2007.2086, 2007.
+   2717–2729, doi: 10.1098/rsta.2007.2086, 2007; available
+   at http://rsta.royalsocietypublishing.org/content/365/1860/2717,
+   accessed on 2009-11-10.
 
 .. [#ren] Fumin Ren et al., Changes in tropical cyclone
    precipitation over China, *Geophysical Research Letters* **33**,
