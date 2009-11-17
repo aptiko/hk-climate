@@ -1,5 +1,4 @@
 restindex
-    page-title: The scientific consensus
 /restindex
 
 The scientific consensus

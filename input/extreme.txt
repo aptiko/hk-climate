@@ -1,5 +1,4 @@
 restindex
-    page-title: The extreme weather
 /restindex
 
 The extreme weather
