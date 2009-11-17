@@ -113,7 +113,7 @@ References
 
 .. [#gilgamesh] Available at
    http://www.ancienttexts.org/library/mesopotamian/gilgamesh/tab11.htm,
-   accessed 2009-04-19. 
+   accessed on 2009-04-19. 
 
 .. [#pielke-jr] Pielke, R. A., Future economic damage from tropical
    cyclones: sensitivities to societal and climate changes,
