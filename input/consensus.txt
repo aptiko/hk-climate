@@ -139,7 +139,7 @@ events, but the tip of the iceberg of the dominant science culture today:
 push for publications, push for image, do favours to colleagues
 and expect favours from them, and neglect science ethics.
 See also Lindzen's paper [#lindzen2008]_ for a more in-depth
-investigation of these problems.
+investigation of these problems. [#climategate]_
 
 In conclusion, rather than arguing about whether there is consensus
 (or consensus of consensus), we'd spend our time much better if we
@@ -208,3 +208,22 @@ References
    currently designed to answer questions?", 29 November 2008;
    available at http://arxiv.org/abs/0809.3762, accessed on
    2009-09-18.
+
+Updates
+-------
+
+.. [#climategate] This web site, and therefore the paragraph about the 
+   politicization of science, was published in 17 November 2009, just
+   two days before the scandal that became known as Climategate broke
+   out. If you read the paragraph again, you'll see that the
+   revelations would hardly surprise us (although we did find them
+   illuminating); we were already painfully aware of what's going on
+   in the scientific community. It is vitally important to understand
+   that Climategate is not an isolated event either, but the tip of
+   the iceberg of the dominant science culture today.
+
+   At the time of this writing, information about Climategate is still 
+   scattered around the web and changing fast; a possible starting point
+   is the Wikipedia article, http://en.wikipedia.org/wiki/Climategate.
+
+   28 November 2009
