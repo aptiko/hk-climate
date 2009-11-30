@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+    <title><% title %> - HK Climate</title>
+    <meta http-equiv="Content-Type"
+        content="text/html; charset=<% final_encoding %>" />
+    <link rel="stylesheet"
+        href="<% path_to_root %>static/itia.css"
+        type="text/css" />
+</head>
+<body>
+  <div id="header">
+  </div>
+  <div id="separator">
+  </div>
+  <div id="breadcrumbs">
+    Είστε εδώ:
+      <ul>
+          <# print_crumbs(breadcrumbs) #>
+      </ul>
+  </div>
+  <table id="content-wrapper"><tr>
+  <td id="sidepane" width="50em">
+    <div id="menu">
+    <#
+        print_details(default_section,
+            page_title='<ul><li><a href="./">Αρχή</a></li></ul>')
+    #>
+    <p/>
+    <ul><li><a href="about.html">Περί</a></li></ul>
+    <p/>
+    </div>
+  </td>
+  <td id="content">
+    <div id="main">
+        <a name="startcontent" id="startcontent"></a>
+
+        <% body %>
+
+        <div id="footer">
+            <p>Τελευταία τροποποίηση της σελίδας: <% modtime %>.</p>
+        </div>
+    </div>
+  </td>
+</body>
+</html>
