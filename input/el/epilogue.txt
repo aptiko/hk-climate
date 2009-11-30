@@ -1,5 +1,6 @@
 restindex
     page-title: Επίλογος
+    encoding: utf-8
 /restindex
 
 Επίλογος: Χάος, συμπεριφορά Hurst-Kolmogorov, και αβεβαιότητα
@@ -99,7 +100,7 @@ Edward Lorenz, ένας από τους πρώτους επιστήμονες π
 η ρουλέτα είναι ένα εξαιρετικά απλό τεχνητό σύστημα. Τα φυσικά
 συστήματα είναι πολύ πιο σύνθετα.
 
-.. figure:: images/roulette.png
+.. figure:: /images/roulette.png
 
    Σχήμα 1: 200 τυχαία αποτελέσματα ρουλέτας
 
@@ -135,17 +136,17 @@ Edward Lorenz, ένας από τους πρώτους επιστήμονες π
 στο Σχήμα 4 θα φαινόταν σαν «θόρυβος» αν είχαμε δεδομένα για να
 μεγαλώσουμε περαιτέρω την κλίμακα.
 
-.. figure:: images/climate-in-last-10-thousand-years.png
+.. figure:: /images/climate-in-last-10-thousand-years.png
 
    Σχήμα 2: Η θερμοκρασία της γης τα τελευταία 10 χιλιάδες χρόνια
    (διαφορά σε σχέση με σήμερα σε °C)
 
-.. figure:: images/climate-in-last-100-thousand-years.png
+.. figure:: /images/climate-in-last-100-thousand-years.png
 
    Σχήμα 3: Η θερμοκρασία της γης τα τελευταία 100 χιλιάδες χρόνια
    (διαφορά σε σχέση με σήμερα σε °C)
 
-.. figure:: images/climate-in-last-800-thousand-years.png
+.. figure:: /images/climate-in-last-800-thousand-years.png
 
    Σχήμα 4: Η θερμοκρασία της γης τα τελευταία 800 χιλιάδες χρόνια
    (διαφορά σε σχέση με σήμερα σε °C) [#last-800-thousand]_
@@ -200,8 +201,8 @@ Edward Lorenz, ένας από τους πρώτους επιστήμονες π
 | | (1880–1978)      |                   | | (1903–1987)        |
 +--------------------+-------------------+----------------------+
 
-.. |hurst|      image:: images/hurst.jpg
-.. |kolmogorov| image:: images/kolmogorov.jpg
+.. |hurst|      image:: /images/hurst.jpg
+.. |kolmogorov| image:: /images/kolmogorov.jpg
 
 
 Αναφορές

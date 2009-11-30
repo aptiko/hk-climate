@@ -1,4 +1,5 @@
 restindex
+    encoding: utf-8
 /restindex
 
 Η επιστημονική συναίνεση

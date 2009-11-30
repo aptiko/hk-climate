@@ -1,7 +1,8 @@
 restindex
+    encoding: utf-8
 /restindex
 
-The extreme weather
+Τα ακραία φαινόμενα
 ===================
 
 .. epigraph::
@@ -92,7 +93,7 @@ The extreme weather
 ερευνητές αμφισβητούν αυτά τα αποτελέσματα ([#emanuel-debate1]_,
 [#emanuel-debate2]_).
 
-.. figure:: images/major-hurricanes.png
+.. figure:: /images/major-hurricanes.png
 
    Σχήμα 1: Αριθμός τυφώνων κατηγορίας 3–5 στον Ατλαντικό
    [#ncdc-hurricanes]_

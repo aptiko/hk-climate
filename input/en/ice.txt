@@ -18,7 +18,7 @@ Figure 1 shows what is the minimum ice extent each year; that is, what
 is the ice extent in September.
 
 
-.. figure:: images/minimum-north-ice-including-2008.png
+.. figure:: /images/minimum-north-ice-including-2008.png
 
    Figure 1: Arctic ice extent (millions of sq. km) in September
 
@@ -64,7 +64,7 @@ include the entire record from 1979; however, recent data are
 available elsewhere and are updated on a daily
 basis [#ice-monitoring]_.)
 
-.. figure:: images/six-ice-extent-charts.png
+.. figure:: /images/six-ice-extent-charts.png
 
    Figure 2: Ice extent (millions of sq. km): Arctic on the left,
    Antarctic on the right; minimum extent at the top (September for
@@ -76,7 +76,7 @@ If we assume that there is something in ice extent that is
 representative of the planet's temperature, wouldn't that be the total
 ice extent, north and south added? Figure 3 shows that.
 
-.. figure:: images/total-ice-extent.png
+.. figure:: /images/total-ice-extent.png
 
    Figure 3: Total ice extent (millions of sq. km), annual average,
    for both Arctic and Antarctic

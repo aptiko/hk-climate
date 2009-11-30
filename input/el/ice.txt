@@ -1,4 +1,5 @@
 restindex
+    encoding: utf-8
 /restindex
 
 Το λιώσιμο των πάγων
@@ -18,7 +19,7 @@ restindex
 ποια δηλαδή είναι η έκταση το Σεπτέμβριο.
 
 
-.. figure:: images/minimum-north-ice-including-2008.png
+.. figure:: /images/minimum-north-ice-including-2008.png
 
    Σχήμα 1: Έκταση αρκτικών πάγων (εκατομμύρια τετραγωνικά χιλιόμετρα) το Σεπτέμβριο
 
@@ -67,7 +68,7 @@ restindex
 πιο πρόσφατα δεδομένα, που ενημερώνονται σε ημερίσια βάση
 [#ice-monitoring]_.)
 
-.. figure:: images/six-ice-extent-charts.png
+.. figure:: /images/six-ice-extent-charts.png
 
    Σχήμα 2: Έκταση πάγων (εκατομμύρια τετραγωνικά χιλιόμετρα): Αρκτική
    αριστερά, Ανταρκτική δεξιά· ελάχιστη έκταση πάνω (Σεπτέμβριος για
@@ -80,7 +81,7 @@ restindex
 συνολική έκταση των πάγων; Δηλαδή το άθροισμα των δύο πόλων; Αυτό
 φαίνεται στο Σχήμα 3.
 
-.. figure:: images/total-ice-extent.png
+.. figure:: /images/total-ice-extent.png
 
    Σχήμα 3: Συνολική έκταση πάγων (εκατομμύρια τετραγωνικά
    χιλιόμετρα), μέση ετήσια τιμή, για την Αρκτική και την Ανταρκτική.

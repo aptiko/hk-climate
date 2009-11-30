@@ -89,7 +89,7 @@ hurricanes may be nothing special, there is an unprecedented increase
 in their intensity [#emanuel]_; however, that research is debated
 ([#emanuel-debate1]_, [#emanuel-debate2]_).
 
-.. figure:: images/major-hurricanes.png
+.. figure:: /images/major-hurricanes.png
 
    Figure 1: Number of category 3–5 Atlantic hurricanes
    [#ncdc-hurricanes]_

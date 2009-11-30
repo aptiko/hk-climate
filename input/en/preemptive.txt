@@ -36,7 +36,7 @@ save one percent of energy, and even this is questionable
 [#banning-the-bulb]_. One percent would be barely perceptible in
 Figure 1.
 
-.. figure:: images/global-power-consumption.png
+.. figure:: /images/global-power-consumption.png
 
    Figure 1: Global power consumption in TW
 

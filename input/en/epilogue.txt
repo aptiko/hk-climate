@@ -103,7 +103,7 @@ mean of 18, as Figure 1 shows. But the roulette is an extremely simple
 artificial system. Natural systems are much more complicated than
 that.
 
-.. figure:: images/roulette.png
+.. figure:: /images/roulette.png
 
    Figure 1: 200 random roulette outcomes
 
@@ -137,18 +137,18 @@ is only "noise" in Figure 3, and what looks like "signal" in Figure 4
 would again look like "noise" if we had enough data to further zoom
 out.
 
-.. figure:: images/climate-in-last-10-thousand-years.png
+.. figure:: /images/climate-in-last-10-thousand-years.png
 
    Figure 2: The temperature of the Earth during the last 10 thousand
    years (difference from today in °C)
 
-.. figure:: images/climate-in-last-100-thousand-years.png
+.. figure:: /images/climate-in-last-100-thousand-years.png
 
    Figure 3: The temperature of the Earth during the last 100 thousand
    years (difference from today in °C)
 
 
-.. figure:: images/climate-in-last-800-thousand-years.png
+.. figure:: /images/climate-in-last-800-thousand-years.png
 
    Figure 4: The temperature of the Earth during the last 800 thousand
    years (difference from today in °C) [#last-800-thousand]_
@@ -202,8 +202,8 @@ random.
 | | (1880–1978)      |                   | | (1903–1987)       |
 +--------------------+-------------------+---------------------+
 
-.. |hurst|      image:: images/hurst.jpg
-.. |kolmogorov| image:: images/kolmogorov.jpg
+.. |hurst|      image:: /images/hurst.jpg
+.. |kolmogorov| image:: /images/kolmogorov.jpg
 
 
 References

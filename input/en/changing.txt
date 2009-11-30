@@ -110,7 +110,7 @@ thought to inhabit this planet something like 100 thousand years.
 Figure 1 shows how the temperature has changed during these 100
 thousand years.
 
-.. figure:: images/temperature-during-humanity.png
+.. figure:: /images/temperature-during-humanity.png
 
    Figure 1: Approximate average Earth temperature in the last 100 thousand
    years (difference from today in °C)

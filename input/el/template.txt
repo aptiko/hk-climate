@@ -6,11 +6,15 @@
     <meta http-equiv="Content-Type"
         content="text/html; charset=<% final_encoding %>" />
     <link rel="stylesheet"
-        href="<% path_to_root %>static/itia.css"
+        href="/static/itia.css"
         type="text/css" />
 </head>
 <body>
   <div id="header">
+     <p id="language-switcher">
+      <a href="/">English</a>
+      <a href="/el/">Ελληνικά</a>
+     </p>
   </div>
   <div id="separator">
   </div>

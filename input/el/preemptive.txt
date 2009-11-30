@@ -1,4 +1,5 @@
 restindex
+    encoding: utf-8
 /restindex
 
 Η προληπτική δράση
@@ -37,7 +38,7 @@ restindex
 ενέργειας, ενώ και αυτό αμφισβητείται [#banning-the-bulb]_. Ένα τοις
 εκατό μόλις που θα ήταν αντιληπτό στο Σχήμα 1.
 
-.. figure:: images/global-power-consumption.png
+.. figure:: /images/global-power-consumption.png
 
    Σχήμα 1: Παγκόσμια κατανάλωση ενέργειας σε TW
 

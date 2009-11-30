@@ -2,6 +2,7 @@ restindex
     page-title: Η έλλειψη στοιχείων περί ανθρωπογενούς κλιματικής αλλαγής
     crumb: Αρχή
     section-pages: , ice, extreme, changing, models, consensus, preemptive, epilogue
+    output-encoding: utf-8
 /restindex
 
 Καλωσορίσατε στο HK climate

@@ -138,7 +138,7 @@ climate models. The red line is the average of these outputs. Your
 first impression would be "wow, the models are good!" But let's take a
 more careful look at the Figure.
 
-.. figure:: images/ipcc-model-reproduction-of-20th-century.png
+.. figure:: /images/ipcc-model-reproduction-of-20th-century.png
 
    Figure 1: IPCC's presentation of model reliability
    ([#ipcc-models]_, p. 600).

@@ -1,4 +1,5 @@
 restindex
+    encoding: utf-8
 /restindex
 
 Τα κλιματικά μοντέλα
@@ -147,7 +148,7 @@ restindex
 μάλλον: «τα μοντέλα είναι πολύ εντάξει!» Ας ρίξουμε όμως μια πιο
 προσεκτική ματιά στο διάγραμμα.
 
-.. figure:: images/ipcc-model-reproduction-of-20th-century.png
+.. figure:: /images/ipcc-model-reproduction-of-20th-century.png
 
    Σχήμα 1: Αξιοπιστία των μοντέλων σύμφωνα με το IPCC
    ([#ipcc-models]_, σελ. 600).
