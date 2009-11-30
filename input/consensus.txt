@@ -133,13 +133,13 @@ scientific fraud incidents. In 2006, what had been thought to be
 groundbreaking research results in biotechnology were found to be
 entirely fabricated [#hwang]_.  An investigation is ongoing about serious
 allegations of data fabrication by a well-known climate scientist, and
-serious allegations of cover-up by his university [#keenen]_. People
+serious allegations of cover-up by his university [#keenan]_. People
 who work in academia are painfully aware that these are not isolated
 events, but the tip of the iceberg of the dominant science culture today:
 push for publications, push for image, do favours to colleagues
 and expect favours from them, and neglect science ethics.
 See also Lindzen's paper [#lindzen2008]_ for a more in-depth
-investigation of these problems. [#climategate]_
+investigation of these problems. (Update: [#climategate]_)
 
 In conclusion, rather than arguing about whether there is consensus
 (or consensus of consensus), we'd spend our time much better if we
@@ -200,7 +200,7 @@ References
    http://www.sciencemag.org/sciext/hwang2005/science_statement.pdf,
    accessed on 2009-09-25.
 
-.. [#keenen] Douglas Keenen, "Remarks on the fraud allegation against
+.. [#keenan] Douglas Keenan, "Remarks on the fraud allegation against
    some climatic research of Wei-Chyung Wang"; available at
    http://www.informath.org/apprise/a5620.htm, accessed on 2009-04-21.
 
@@ -213,14 +213,14 @@ Updates
 -------
 
 .. [#climategate] This web site, and therefore the paragraph about the 
-   politicization of science, was published in 17 November 2009, just
+   politicization of science, was published on 17 November 2009, just
    two days before the scandal that became known as Climategate broke
    out. If you read the paragraph again, you'll see that the
    revelations would hardly surprise us (although we did find them
    illuminating); we were already painfully aware of what's going on
    in the scientific community. It is vitally important to understand
-   that Climategate is not an isolated event either, but the tip of
-   the iceberg of the dominant science culture today.
+   that Climategate is not an isolated case either, but the tip of
+   the iceberg.
 
    At the time of this writing, information about Climategate is still 
    scattered around the web and changing fast; a possible starting point
