@@ -3,3 +3,4 @@ all:
 	#rst2html climate.txt climate.html
 	r2w climate.ini -w
 	r2w climate-el.ini -w
+	zip -j output/hk-climate-source.zip input/en/[a-s]*.txt

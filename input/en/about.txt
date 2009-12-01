@@ -59,6 +59,24 @@ Contact
 
 Email: hk-climate at itia.ntua.gr
 
+Translations
+============
+
+We encourage translating this web site into your own language. 
+The licensing already permits you to do so legally and publish the
+translation wherever you want; if, however, you want your translation
+to appear in http://hk-climate.org/, along with the other languages,
+what you must do is download the `source files`_, translate them, and
+email us the translated versions. We will then contact you for further
+details.
+
+The translated versions of the files must be encoded in UTF-8. If you
+use Windows, you will probably find a good editor, such as
+`Notepad++`_, helpful.
+
+.. _source files: hk-climate-source.zip
+.. _notepad++: http://notepad-plus.sourceforge.net/
+
 References
 ==========
 
