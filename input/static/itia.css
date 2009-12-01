@@ -104,13 +104,20 @@ th.heading-on-left { text-align: right; }
 th { text-align: left; }
 
 @media screen {
-    #content { font-family: Verdana; font-size: 14px; }
+    #content {
+        font-family: tahoma,arial,helvetica,sans-serif;
+        font-size: 13px;
+    }
     #content h1 {
         font-family: Verdana;
         font-size: 14px; 
         padding-top: 5px;
         border-bottom: 1px solid #008080;
         color: #008080;
+    }
+    .epigraph p em {
+        font-family: DejaVu Serif,arial,helvetica,sans-serif;
+        font-size: 12px;
     }
 }
 
