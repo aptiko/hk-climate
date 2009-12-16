@@ -6,7 +6,7 @@ def find_what_to_combine():
     """Read index.txt, get section names from there, and return list of
     filenames to be combined."""
     import os.path
-    index = os.path.join('input', 'index.txt')
+    index = os.path.join('input', 'en', 'index.txt')
     f = open(index)
     for line in f:
         line = line.strip()
@@ -17,7 +17,7 @@ def find_what_to_combine():
     items = [index]
     for item in line.split(','):
         item = item.strip()
-        if item: items.append(os.path.join('input', item+'.txt'))
+        if item: items.append(os.path.join('input', 'en', item+'.txt'))
     return items
 
 def process_item(filename):

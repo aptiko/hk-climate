@@ -1,5 +1,5 @@
 restindex
-    page-title: The lack of evidence for man-made climate change
+    page-title: The lack of evidence for anthropogenic (man-made) climate change
     crumb: Start
     section-pages: , ice, extreme, changing, models, consensus, preemptive, epilogue
     output-encoding: utf-8
