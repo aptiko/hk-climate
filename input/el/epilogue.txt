@@ -221,8 +221,9 @@ Edward Lorenz, ένας από τους πρώτους επιστήμονες π
 
 .. [#hk] Για περισσότερα για τη συμπεριφορά Hurst-Kolmogorov, βλέπε
    τις σχετικές εργασίες του Κουτσογιάννη, κατάλογος των οποίων βρίσκεται
-   στη διεύθυνση http://www.itia.ntua.gr/en/documents/?tags=Hurst.
-   Μια σχετικά εύκολη εισαγωγή είναι η εξής:
+   στη διεύθυνση http://www.itia.ntua.gr/en/documents/?tags=Hurst
+   (Νεότερα: [#randomwalk]_).  Μια σχετικά εύκολη εισαγωγή είναι η
+   εξής:
 
    D. Koutsoyiannis, Nonstationarity versus scaling in hydrology,
    *Journal of Hydrology* **324** (1-4), 239–254,
@@ -238,3 +239,16 @@ Edward Lorenz, ένας από τους πρώτους επιστήμονες π
    H. E. Hurst, Long term storage capacities of reservoirs,
    *Transactions of the American Society of Civil Engineers* **116**,
    776–808, 1951.
+
+Νεότερα
+-------
+
+.. [#randomwalk] Για περισσότερες πληροφορίες για όλα τα θέματα με τα
+   οποία καταπιάνεται αυτό το κεφάλαιο, συνιστούμε πλέον την
+   εξαιρετική και διαφωτιστική νέα εργασία του Κουτσογιάννη: 
+
+   D. Koutsoyiannis, A random walk on water, *Hydrology and Earth
+   System Sciences* **14**, 585–601, 2010; available at
+   http://itia.ntua.gr/el/docinfo/923/.
+
+   16 Απριλίου 2010

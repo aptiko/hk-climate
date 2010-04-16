@@ -223,7 +223,8 @@ References
 .. [#hk] For more on the Hurst-Kolmogorov behaviour, see the relevant
    works by Koutsoyiannis, a list of which can be found at
    http://www.itia.ntua.gr/en/documents/?tags=Hurst (accessed on
-   2009-08-03). A relatively easy introduction is the following:
+   2009-08-03) (Update: [#randomwalk]_). A relatively easy introduction
+   is the following:
 
    D. Koutsoyiannis, Nonstationarity versus scaling in hydrology,
    *Journal of Hydrology* **324** (1-4), 239–254,
@@ -238,3 +239,16 @@ References
    H. E. Hurst, Long term storage capacities of reservoirs,
    *Transactions of the American Society of Civil Engineers* **116**,
    776–808, 1951.
+
+Updates
+-------
+
+.. [#randomwalk] For more information on all issues touched in this
+   chapter, we now recommend Koutsoyiannis' outstanding and
+   enlightening new paper:
+
+   D. Koutsoyiannis, A random walk on water, *Hydrology and Earth
+   System Sciences* **14**, 585–601, 2010; available at
+   http://itia.ntua.gr/el/docinfo/923/, accessed on 2010-04-16.
+
+   16 April 2010
