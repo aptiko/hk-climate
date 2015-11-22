@@ -1,51 +1,61 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-<head>
-    <title><% title %> - HK Climate</title>
-    <meta http-equiv="Content-Type"
-        content="text/html; charset=<% final_encoding %>" />
-    <link rel="stylesheet"
-        href="/static/itia.css"
-        type="text/css" />
-</head>
-<body>
-  <div id="header">
-     <p id="language-switcher">
-      <a href="/">English</a>
-      <a href="/el/">Ελληνικά</a>
-     </p>
-  </div>
-  <div id="separator">
-  </div>
-  <div id="breadcrumbs">
-    Είστε εδώ:
-      <ul>
-          <# print_crumbs(breadcrumbs) #>
-      </ul>
-  </div>
-  <table id="content-wrapper"><tr>
-  <td id="sidepane" width="50em">
-    <div id="menu">
-    <#
-        print_details(default_section,
-            page_title='<ul><li><a href="./">Αρχή</a></li></ul>')
-    #>
-    <p/>
-    <ul><li><a href="about.html">Περί</a></li></ul>
-    <p/>
-    </div>
-  </td>
-  <td id="content">
-    <div id="main">
-        <a name="startcontent" id="startcontent"></a>
+<!DOCTYPE html>
+<title><% title %> - HK Climate</title>
+<meta http-equiv="Content-Type"
+    content="text/html; charset=<% final_encoding %>">
+<meta name="viewport" content="width=device-width,, initial-scale=1" />
+<link rel="stylesheet"
+      media=all
+      href="/static/css/hkstyle.css" />
 
+<div class="container" id="content">
+  <nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="./">HK Climate</a>
+      </div>
+      <div class="collapse navbar-collapse" id="navbar-menu">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+              <# print_details(default_section,
+                  page_title='<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Περιεχόμενα <span class="caret"></span></a>',
+                  item_wrapper='<ul class="dropdown-menu">%s</ul>'
+                 )
+               #>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown"
+               role="button" aria-haspopup="true" aria-expanded="false">Language
+               <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="/">English</a></li>
+              <li><a href="/el/">Ελληνικά</a></li>
+            </ul>
+          </li>
+          <li><a href="about.html">Περί</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
         <% body %>
-
-        <div id="footer">
-            <p>Τελευταία τροποποίηση της σελίδας: <% modtime %>.</p>
-        </div>
+      </div>
     </div>
-  </td>
-</body>
-</html>
+  </div>
+</div>
+
+<script
+  src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js">
+</script>
+<script
+  src="http://netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js">
+</script>
